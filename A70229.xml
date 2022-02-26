@@ -1,0 +1,787 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers appeal answer'd, or, A full relation of the occasion, progress, and issue of a meeting held in Barbican the 28th of August last past wherein the allegations of William Pen in two books lately published by him against Thomas Hicks, were answered and disproved, and Tho. Hicks, his quotations out of the Quakers own books attested by several as being appeal'd unto.</title>
+            <author>Hicks, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70229</idno>
+            <idno type="STC">Wing H1924</idno>
+            <idno type="STC">ESTC R2772</idno>
+            <idno type="EEBO-CITATION">08723885</idno>
+            <idno type="OCLC">ocm 08723885</idno>
+            <idno type="VID">41681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 567:5, 1267:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers appeal answer'd, or, A full relation of the occasion, progress, and issue of a meeting held in Barbican the 28th of August last past wherein the allegations of William Pen in two books lately published by him against Thomas Hicks, were answered and disproved, and Tho. Hicks, his quotations out of the Quakers own books attested by several as being appeal'd unto.</title>
+                  <author>Hicks, Thomas, 17th cent.</author>
+                  <author>Kiffin, William, 1616-1701.</author>
+               </titleStmt>
+               <extent>[13], 2-32, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Parker...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Postscript signed: Thomas Hicks.</note>
+                  <note>"To the reader" signed: William Kiffen ... [et al.]</note>
+                  <note>"Published for common information."</note>
+                  <note>Item at reel 1267:14 identified as Wing Q12 (number cancelled).</note>
+                  <note>This work also appears as the fourth part of Three dialogues between a Christian and a Quaker / Thomas Hicks (Wing H1927).</note>
+                  <note>Reproduction of original in the Bodleian Library and the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hicks, Thomas, 17th cent.</term>
+               <term>Penn, William, 1644-1718. --  Reason against railing.</term>
+               <term>Penn, William, 1644-1718. --  Counterfeit Christian dtected.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41681:1"/>
+            <p>THE QUAKERS APPEAL ANSWER'D, OR A FULL RELATION Of the Occaſion, Progreſs, and Iſſue of a Meeting held in <hi>Barbican,</hi> the 28<hi rend="sup">th.</hi> of <hi>Auguſt</hi> laſt paſt.</p>
+            <p>VVherein the Allegations of <hi>William Pen,</hi> in Two BOOKS lately Publiſhed by Him, againſt <hi>Thomas Hicks:</hi> were Anſwered and Diſ<g ref="char:EOLhyphen"/>proved<g ref="char:punc">▪</g>
+            </p>
+            <p>And <hi>Tho. Hicks,</hi> his Quotations out of the <hi>Quakers</hi> own Books, Atteſted, by ſeveral, as being appeal'd unto.</p>
+            <p>Publiſhed for Common Information.</p>
+            <q>
+               <bibl>
+                  <hi>Deut. 19.16. &amp;c.</hi>
+               </bibl>
+               <p>If a falſe VVitneſs ariſe againſt any man to Testifie againſt him that which is Falſe: Then both the Men between whom the controverſieis, ſhall ſtand up, before the Lord, before the Prieſts and the Judges which ſhall be in thoſe days: And the Judges ſhall make Diligent Inquiſition, and behold, if the Witneſs be a falſe Witneſs; Then you ſhall do unto him as he thought to have done unto his Brother: So ſhall you put the Evil away from you.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Peter Parker,</hi> at the <hi>Leg</hi> and <hi>Star</hi> in <hi>Cornhil,</hi> over againſt the <hi>Royal Exchange,</hi> 1674. Where are Sold the three Dialogues between a Chri<g ref="char:EOLhyphen"/>ſtian and a Quaker.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41681:2"/>
+            <pb facs="tcp:41681:2"/>
+            <head>To the Reader.</head>
+            <p>WHereas there have been ſeveral Books publiſhed of late, by <hi>Thomas Hicks,</hi> by way of Dialogue be<g ref="char:EOLhyphen"/>tween <hi>a Chriſtian and a Quaker,</hi> Againſt which the people called <hi>Quakers</hi> have mani<g ref="char:EOLhyphen"/>feſted great offence, <hi>G. Whitehead</hi> calls the Firſt Dialogue a malitious Forgery, and Fiction, ſtuft with manifeſt ſlanders againſt perſons and principles, <hi>Dip. pl. p.</hi> 1. To the firſt and ſecond Dialogues <hi>William Pen</hi> wrote an Anſwer, <hi>Intituled, Reaſon againſt Ratling, and Truth againſt Fiction,</hi> &amp;c.—Unto which <hi>Thomas Hicks</hi> replyed in a Third Dialogue, <hi>Intituled, The Quaker condemned out of his own mouth.</hi> To this laſt <hi>William Pen</hi> ſaith ſomething, in his <hi>Counterfeit Chriſtian De<g ref="char:EOLhyphen"/>tected, &amp;c.</hi> Wherein he doth charge <hi>Thomas Hicks</hi> with <hi>vile Forgeries, and black ſlanders, &amp;c.</hi> By way of Appeal to all ſober people, eſpecially thoſe called <hi>Anabaptiſts,</hi> in and about the City of <hi>London,</hi> And at the end
+<pb facs="tcp:41681:3"/>
+of which book we have theſe words, by way of appeal:</p>
+            <q>
+               <p>
+                  <label>A Poſtſcript by another hand.</label>
+               </p>
+               <p>We expect to hear what the <hi>Baptiſts</hi> in and about <hi>London,</hi> will ſay, (as being appealed to;) concerning their Brother <hi>Tho. Hicks</hi> his pro<g ref="char:EOLhyphen"/>ceeding in his three Dialogues, and whether they approve thereof, or of ſuch Play-Books or Romances about Religion, yea or nay: For they are highly concerned to give Judgement, and to be plain to the world herein, as they tender the Glory of God, and the Reputation of Reli<g ref="char:EOLhyphen"/>gion, &amp;c.</p>
+               <p>Now if you the Teachers and Elders &amp;c. a<g ref="char:EOLhyphen"/>mong the Baptized people, do not publickly clear your ſelves of <hi>Tho. Hicks,</hi> and theſe his un<g ref="char:EOLhyphen"/>juſt proceedings againſt us, and hereafter he further perſiſts therein, we may take it for granted, that you own his work, and may juſtly deal with him, and purſue him, not onely as <hi>Tho. Hicks,</hi> but as the <hi>Baptiſts great Cham<g ref="char:EOLhyphen"/>pion, peculiar Agent, or Repreſentative;</hi> But if you ingenuouſly clear your ſelves of him, and his corrupt perverſe work, then his future miſcarriages will be chargeable onely upon <hi>Tho. Hicks</hi> himſelf, and you ſhall appear to the world ſo far clear thereof, and approve your ſelves
+<pb facs="tcp:41681:3"/>
+the more honeſt and ſincere towards God, Truth, and Religion.</p>
+            </q>
+            <p>The aforeſaid book of <hi>William Pens</hi> was diſtributed, at the doors of ſome of our Meeting places, <hi>the ſecond of Auguſt laſt,</hi> Though ſome of us met not with it, till ſeveral days after.</p>
+            <p>Upon the reading of this Appeal we were concerned to examine the ſeveral things charged by <hi>William Pen</hi> againſt <hi>Tho. Hicks,</hi> and the rather, becauſe the ſaid Appeal ſig<g ref="char:EOLhyphen"/>nifies that if we did not deal with him, as ſuch a perſon therein repreſented, they would interpret his proceedings as the Act of the whole Baptiſts, <hi>&amp;c.</hi> Now foraſmuch as <hi>Thomas Hicks</hi> is a member with us (and one whoſe converſation hath been honeſt and un<g ref="char:EOLhyphen"/>blameable to the beſt of our knowledge:) having ſo heavy a charge exhibited againſt him, viz. <hi>A Forger, and a Lyar,</hi> we could do no leſs than deſire <hi>Tho. Hicks</hi> to give us a Pub<g ref="char:EOLhyphen"/>lick-meeting, that we might hear what he could ſay hereunto: and if he had done them any wrong either by miſquoting of them in any of their books, or ſlandering of them in any thing he had charged them with, That we might, if any ſuch thing ap<g ref="char:EOLhyphen"/>peared,
+<pb facs="tcp:41681:4"/>
+diſcharge that duty towards him as becomes us <hi>(viz.)</hi> either to bring him to acknowledge his evil as Publickly as he had wronged them, or to have diſown<g ref="char:EOLhyphen"/>ed him, as a perſon unworthy of counte<g ref="char:EOLhyphen"/>nance amongſt us: in caſe he ſhould refuſe ſo to do: It being altogether contrary to our principles and practice, to allow any a<g ref="char:EOLhyphen"/>mongſt us, that ſhall either in word or deed wrong any ſort of men.</p>
+            <p>Hereupon a Letter was ſent to <hi>William Pen</hi> as followeth;
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>William Pen,</salute>
+                     </opener>
+                     <p>Whereas an Appeal has been made to us in a Book lately publiſhed by thee, Intituled, <hi>The Counterfeit Chriſtian Detected,</hi> &amp;c. That we ſhould clear our ſelves of <hi>Tho. Hicks,</hi> and (As the Appeal expreſſeth it:) of his unjuſt proceedings againſt the <hi>Quakers:</hi> Theſe are therefore to acquaint Thee, that we have deſired <hi>Tho. Hicks</hi> to give us a publick meeting, that we might hear his Anſwer both with reſpect to thoſe Doctrines and matters of Fact which he in his Dialogues hath laid to the <hi>Quakers</hi> charge. At which meeting, thy ſelf with ſome others of thy friends are expected to be preſent: And we do alſo entreat and expect from you, that as you have in Print accuſed him of For<g ref="char:EOLhyphen"/>gery
+<pb facs="tcp:41681:4"/>
+and lying, ſo you would ſuffer him withou interruption to make his own defence, other<g ref="char:EOLhyphen"/>wiſe we ſhall not be able to give Judgement whe<g ref="char:EOLhyphen"/>ther he hath wronged you or not.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>William Kiſſen.</item>
+                              <item>Han. Knollys.</item>
+                              <item>Tho. Paul.</item>
+                              <item>Lawrence Wiſe.</item>
+                              <item>Henry Forty.</item>
+                              <item>James Jones.</item>
+                           </list>
+                        </signed>
+                        <dateline>
+                           <hi>London,</hi> 
+                           <date>15<hi rend="sup">th.</hi> 
+                              <hi>of Au<g ref="char:EOLhyphen"/>guſt, 1674.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                     <postscript>
+                        <p>The meeting will be on the 28<hi rend="sup">th.</hi> inſtant, at Mr. <hi>Goſ<g ref="char:EOLhyphen"/>nels</hi> meeting-place in <hi>Barbi<g ref="char:EOLhyphen"/>can,</hi> at two of the Clock in the Afternoon.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+            </p>
+            <p>This Letter was ſealed and directed to <hi>William Pen</hi> at his houſe at <hi>Rickmanſworth</hi> or elſewhere, and left with <hi>Phillip Ford</hi> for conveyance: Who preſumed to break open the letter, and accordingly returned this Anſwer, to the perſons before named.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Yeſterday I received a Letter from you, di<g ref="char:EOLhyphen"/>rected to <hi>William Pen,</hi> concerning a meeting to be the 28th. <hi>inſtant,</hi> at which you ſay you expect him: This ſerves onely to give you notice, that he was gone into the Eaſt of <hi>England</hi> a<g ref="char:EOLhyphen"/>bout three weeks agoe, and when his return will be I know not: neither doe I know how to give him notice hereof: and therefore I do not ſee
+<pb facs="tcp:41681:5"/>
+that he is likely to be there, except you had been pleaſed to have appointed a time when he was in the City, or ſo near that he might have had time<g ref="char:EOLhyphen"/>ly notice of your intentions. If this be deſign<g ref="char:EOLhyphen"/>edly done, it is not fair; but if not, the debate muſt be ſuſpended till a time in which the par<g ref="char:EOLhyphen"/>ties concerned with you, by mutual conſent, agree upon a time. This I thought good to let you know, and do judge you ought to let others know it, that ſo vain boaſting may be prevent<g ref="char:EOLhyphen"/>ed as much as in us lyeth, which is all at preſent from your Freind.</p>
+                  <closer>
+                     <signed>Phillip Ford.</signed>
+                     <dateline>
+                        <hi>London</hi> 
+                        <date>20<hi rend="sup">th.</hi> 
+                           <hi>6/mo. 1674.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Another Letter of the ſame import with that before to <hi>William Pen,</hi> was ſent to <hi>G. Whitehead,</hi> ſealed and directed to him, at his houſe, at the <hi>Wheat-ſheaff</hi> in <hi>Houndſditch</hi> or elſewhere.</p>
+            <p>Whereupon this following Anſwer was re<g ref="char:EOLhyphen"/>turned by <hi>G. Whiteheads</hi> Wife.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>I did preſume to open my husbands Letter, leſt I might prejudicially keep it, now finding the conſequence, requiring my husband and
+<pb facs="tcp:41681:5"/>
+                     <hi>William Pen,</hi> at ſuch a day and time, which in all likelyhood they are incapable of anſwer<g ref="char:EOLhyphen"/>ing, being very remote from this City. And the truth is in plainneſs, I know not when nor where to ſend to either of them; ſo did think it beſt to return the Letter with this plain in<g ref="char:EOLhyphen"/>formation.</p>
+                  <closer>
+                     <signed>
+                        <hi>That I am thy Friend.</hi> Ann Whitehead.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Hereupon another letter was ſent to</hi> John Oſgood <hi>to the ſame purpoſe, as to</hi> William Pen <hi>and</hi> G. Whitehead, <hi>with this addition,</hi> That we underſtand, that neither <hi>Will. Pen,</hi> nor <hi>G. Whitehead</hi> were in the City, and tis not known where they are, nor how to direct our Letters to them, of which we were wholly igno<g ref="char:EOLhyphen"/>rant when thoſe Letters were ſent. However ſince the matter depending before us, is onely matter of Fact, and not of Diſpute, we con<g ref="char:EOLhyphen"/>ceive we may proceed to hear <hi>Tho. Hicks</hi> his Defence; His Charge being already in Print exhibited againſt him: therefore we do now acquaint you of our intentions; that you with ſome others of your Freinds, may be there if you pleaſe, &amp;c.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dated</hi> 
+                        <date>23d. <hi>of</hi> Aug. <hi>1674.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb facs="tcp:41681:6"/>This Letter was accordingly delivered in<g ref="char:EOLhyphen"/>to <hi>John Oſgoods</hi> Hands, the very next day.</p>
+            <p>Thus far did we proceed to prevent any pleading of a ſurprize; Though it was more than we were in ſtrictneſs obliged unto For<g ref="char:EOLhyphen"/>aſmuch as we (with other ſober people;) were Appealed unto: And we are not to ſuppoſe, that the Quakers did this, to them who are not fit to give a certain judgement. For William Pen ſaith, <hi>That to which an Ap<g ref="char:EOLhyphen"/>peal is made, muſt be capable of giving an In<g ref="char:EOLhyphen"/>fallible Judgement; and ſo a true Judge: Or the Appeal is fooliſh: Spir. of Truth. vind. p.</hi> 78. Conſequently We muſt be infallible Judges in this Caſe: or otherwiſe they have made a fooliſh Appeal. Though this might have been ſufficient to us, had we Privately examined what <hi>Tho. Hicks</hi> had writ, comparing it with the <hi>Quakers</hi> own Books: and if we had found he had not wronged them, would alſo have juſtified us in the clearing of <hi>Tho. Hicks:</hi> nevertheleſs we were unwilling to be ſingle Judges in this matter; therefore thought it convenient to make it ſo Publick as we did; To the end that they themſelves, and all o<g ref="char:EOLhyphen"/>thers that pleaſed, might hear and judge, as well as we: Hence could not think it rea<g ref="char:EOLhyphen"/>ſonable, to put off the meeting (being ſo generally known;) meerly for the abſence
+<pb facs="tcp:41681:6"/>
+of <hi>William Pen</hi> and <hi>G. Whithead;</hi> in regard the matters objected againſt the Quakers, eſpecially with reſpect to their opinions, did concern the whole party: and therefore there was the more Reaſon, that thoſe of them who could, ſhould have come; that they might be Witneſſes whether there was any wrong done to them or not.</p>
+            <p>According to the time appointed we did meet; <hi>Tho. Hicks</hi> charged them with ſeveral opinions, and produced the Books of ſuch as have been, and now are chief Leaders a<g ref="char:EOLhyphen"/>mongſt the Quakers: for his own diſcharge from Forgery. And that all plainneſs might appear, We ordered another perſon in the meeting, to read the ſaid Books, according as they were Cited by <hi>Tho. Hicks.</hi> Upon the reading of which, we found them to agree, with what he had laid to the Quakers charge, which the following Narrative will give you a more full account of: ſo that hi<g ref="char:EOLhyphen"/>therto we ſee no cauſe of juſt blame to be laid unto <hi>Tho. Hicks.</hi>
+            </p>
+            <p>And whereas there is a late paper Printed by way of complaint of ſeveral ſcandalous reports in City and Country againſt <hi>William Pen</hi> and <hi>G. Whitehead,</hi> as if they purpoſely neglected to meet the day aforeſaid: To
+<pb facs="tcp:41681:7"/>
+which we ſay, that for any ſuch Reports, they came not from any amongſt us, as we know: But ſome there were who did affirm, that <hi>W. Pen</hi> was not far from <hi>London</hi> ſeveral dayes be<g ref="char:EOLhyphen"/>fore the meeting, and after our Letter was given to <hi>Phillip Ford,</hi> to be ſent to him. Yea, others do report, That <hi>William Pen</hi> was at his own houſe, <hi>(not far from London)</hi> the day before the meeting: Though <hi>William Pen</hi> ſaith, he heard not of it Directly nor Indi<g ref="char:EOLhyphen"/>rectly, till about ten that very night the meeting ended. Now if thoſe Reports be true, That <hi>William Pen</hi> was at his own houſe the day before, &amp;c. It muſt be left to mens Judgements; whether <hi>William Pen</hi> did not know of the meeting till afterwards; eſpe<g ref="char:EOLhyphen"/>cially ſince it is not improbable, but that a man <hi>who will with the higheſt confidence deny what he knows to be true,</hi> may alſo <hi>as confi<g ref="char:EOLhyphen"/>dently affirm that which he knowes to be falſe.</hi>
+            </p>
+            <p>That <hi>William Pen</hi> is guilty of the Firſt, the Relation following may put you beyond doubt: As for the Challenge which <hi>William Pen</hi> gives on the behalf of himſelf, <hi>G. White<g ref="char:EOLhyphen"/>head</hi> and the reſt of his friends to give us a publick-meeting <hi>&amp;c.</hi> We ſay, that if <hi>Will. Pen</hi> or <hi>G. Whitehead</hi> or any other Leading-Quaker have any new matter to object a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:41681:7"/>
+               <hi>Tho. Hicks,</hi> of which he hath not clear<g ref="char:EOLhyphen"/>ed himſelf publickly: If they pleaſe to ſig<g ref="char:EOLhyphen"/>nifie the particulars thereof to us in Writing, with their hands to it, we ſhall return ſuch anſwer thereunto, either by a Publick-meet<g ref="char:EOLhyphen"/>ing or otherwiſe, as to us may ſeem juſt, and that may alſo be to the ſatisfaction of all in<g ref="char:EOLhyphen"/>different and unprejudiced minds. For we hope that nothing ſhall lye upon us in point of Duty towards <hi>Tho. Hicks,</hi> but that by the Grace of God we ſhall be ready to do it.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Kiffen</hi>
+                     </item>
+                     <item>
+                        <hi>Dan. Dyke</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Paul</hi>
+                     </item>
+                     <item>
+                        <hi>Han. Knollys</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Forty.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:41681:8"/>
+            <head>A NARATIVE OF THE Method and Proceedings at the Meeting held in <hi>Barbi<g ref="char:EOLhyphen"/>can,</hi> the 28<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1674.</head>
+            <head type="sub">After Mr. <hi>Kiffen</hi> had given an Account of the Occaſion hereof, by Reading the <hi>Quakers Appeal;</hi> (wherein <hi>Tho. Hicks</hi> is Accuſed of <g ref="char:V">Ʋ</g>njuſt and Perverſe Proceedings againſt them:) He ſignified, That the Buſineſs of that Day was not to Diſpute, but only to Hear and Examine Matters of Fact, <hi>viz.</hi> Whether <hi>Tho. Hicks</hi> was Guilty of that which is Objected againſt him.</head>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>THe things whereof I accuſe the <hi>Quakers,</hi> are Reduced under Two General Heads. (1.) Such as reſpect their Opinions. (2.) Their Practice.</p>
+               <p>Their Opinions, I ſhall give you in theſe follow<g ref="char:EOLhyphen"/>ing particulars,</p>
+               <p n="1">(1.) <hi>That the Light in every man, Or the Light
+<pb n="3" facs="tcp:41681:8"/>
+where-with every man is Inlightned,</hi> is God. Dial. 1. <hi>pag.</hi> 3. Dial. 3. <hi>pag.</hi> 2.</p>
+               <p n="2">(2.) <hi>That the Soul</hi> is part of God, <hi>and</hi> of Gods Being; <hi>without Beginning, and Infinite.</hi> Dial. 1. pag. 16. Dial. 3. pag. 2.</p>
+               <p n="3">(3.) <hi>That</hi> Jeſus Chriſt <hi>is not</hi> a Diſtinct Perſon without us, Dial. 1. pag. 1. Dial. 3. pag. 2.</p>
+               <p n="4">(4.) <hi>That Chriſt Redeems himſelf.</hi> Dial. 1. pag. 47. Dial. 3. pag. 2.</p>
+               <p n="5">(5.) <hi>That the Scripture is no Rule of Faith, and Practiſe unto Christians.</hi> Dial. 1. pag. 1. Dial. 3. pag. 2.</p>
+               <p n="6">(6.) <hi>That the Speaking of the Spirit in any, is of greater Authority than the Scriptures.</hi> Dial. 1. p. 48.</p>
+               <p n="7">(7.) <hi>That's no Command from God to me, which he Commands to another.</hi> Dial. 2. pag. 59.</p>
+               <p n="8">(8.) <hi>That Juſtification by that Righteouſneſs which Chriſt fulfilled for us, wholly without us, is a Doctrine of Devils.</hi> Dial. 1. pag. 48.</p>
+               <p n="9">(9.) <hi>That Juſtification is by Works.</hi> Dial. 2. pag. 31. 51.</p>
+               <p n="10">(10.) <hi>That Chriſt fulfilled the Law,</hi> only <hi>as our Pattern or Example.</hi> Dial. 2. pag, 52.</p>
+               <p n="11">(11.) <hi>That the Doctrine of Chriſts Satisfaction is Irreligious and Irrational.</hi> Dial. 3. pag. 3.</p>
+               <p n="12">(12.) <hi>That this Body which Dies, ſhall not riſe a<g ref="char:EOLhyphen"/>gain.</hi> Dial. 3. pag. 3.</p>
+            </sp>
+            <sp>
+               <speaker>VVilliam Pen.</speaker>
+               <p>Whether theſe Doctrines and Expreſſions, charg'd upon the People, called <hi>Quakers,</hi> by <hi>Tho. Hicks,</hi> in both his Dialogues, be really the Doctrines, and Sayings of that People, or not? <hi>Reaſon againſt Rayl. pag.</hi> 6.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:41681:9"/>
+               <speaker>Tho. Hicks.</speaker>
+               <p>That theſe are their Doctrines and Expreſſions, I am now to prove.</p>
+               <p n="1">(1.) <q>That the <hi>Quakers</hi> do hold, that the Light in every man; or the Light wherewith every man is Enlightned, is God.</q> This Particular needs not to be Inſiſted on, for as <hi>G. VVhitehead,</hi> and <hi>VVill. Pen,</hi> deny not the Quotations produced for the Proof hereof. <hi>VVill. Pen</hi> expreſly clears me from Forgery in this Particular: Saith he, <q>Where we have never charg'd Forgery upon him; He (viz. Tho. Hicks,) hath taken the Opportunity, and that with confi<g ref="char:EOLhyphen"/>dence of an Innocent, to cry out: Is this candid to call me a Forger, when you confeſs the things? Ex<g ref="char:EOLhyphen"/>amine, ſaith he, Dial. 3. pag. 4, 5, 6, 9. Thus Will. Pen, Counterfeit Chriſtian Detected, pag. 9.</q> If you pleaſe to Read my Book, and the Pages Will. Pen refers to; You will find, <hi>that the very Point now in Hand,</hi> is there Diſcours'd of: Though this might ſuffice, for my Vindication, yet for the ſake of others, I crave Leave, that ſome Quotations may be Read.</p>
+               <q>
+                  <p>In him was Life, and the Life was the Light of Men.</p>
+                  <p>If the Life be <hi>the Divine Eſſence,</hi> the Light muſt be ſo alſo: For ſuch as the Cauſe is, ſuch the Effect muſt be: Thus G. Whitehead in a Ma<g ref="char:EOLhyphen"/>nuſcript.</p>
+               </q>
+               <p>The abſurdity of this Argument being ſhew'd in my Firſt Dial. pag. 3, 4. Will. Pen, anſwers thus. G. Whitehead, inferring from <hi>John</hi> 1. That if the Life was of the Divine Being, the Light muſt be the ſame; <hi>for as the Cauſe, ſo is the Effect:</hi> It was never Geo. Whiteheads principle, or words,
+<pb n="5" facs="tcp:41681:9"/>
+That the Life which is the Light of Men, is but in it ſelf <hi>a meer Effect:</hi> For he owns it, in its own Being to be no other <hi>than God himſelf.</hi> And values not the Counterfeits, (i. e. <hi>Tho. Hicks</hi>'s quarrel:) <hi>Counterfeit Chriſtian detected,</hi> pag. 56. Margin. We aſſert the true Light, with which every man is inlightened, to be in it ſelf <hi>the Chriſt of God,</hi> and the Saviour of the World, <hi>Will. Pen. Reaſ. againſt Rayl.</hi> p. 56.</p>
+               <p>All men are inlightened, <hi>&amp;c.</hi> This Light is Di<g ref="char:EOLhyphen"/>vine, becauſe 'tis the very Life of the Word, <hi>which is God:</hi> Not an Effect of his Power, <hi>as a created Light,</hi> as ſome men fancy, <hi>Will. Pen, Quakeriſm a new Nick-name,</hi> pag. 9, 10.</p>
+               <p>
+                  <hi>To call the Light in every man a meer creature,</hi> is contrary to <hi>John</hi> 1. In him was Life, and the Life was the Light of men; which Light is Divine and Increated. <hi>G. Whitehead,</hi> Dip. Pl. <hi>pag.</hi> 13.</p>
+               <p>
+                  <hi>Some call the Light Conſcience,</hi> &amp;c. Which Light was, before Conſcience was, or Creature was; or Created, or made Light was: He made the Sun, the Moon, <hi>&amp;c.</hi> And the Light was before theſe were made. <hi>G. Fox, Gr. Myſt.</hi> p. 10.</p>
+               <p>
+                  <hi>Some call it a Natural Light:</hi> Which Light was before the word Conſcience was, or a Natural Light; The Sun, Moon and Stars either: For all things that were made, was made by it. The Natural Light, or made Light, are created Lights. He made the Sun, the Moon, and Stars. They were made. <hi>And here as the Natural Light to the Natural Eye.</hi> And the Light that every man is Inlightened with, that cometh into the VVorld, was before theſe were made: <hi>Glorified</hi> with the Father before the VVorld began. <hi>G. Fox, Gr. Myſt.</hi> pag. 23.</p>
+               <p>
+                  <pb n="6" facs="tcp:41681:10"/>The Light which every man that cometh into the World is Inlightned withall, <hi>is Chriſt;</hi> by whom the World was made. <hi>G. Fox, Gr. Myſt.</hi> pag. 185.</p>
+               <p>The Light which every one that cometh into the World is enlightned withal, is not Conſcience: For the Light was before any thing was made, or Conſcience named. G. <hi>Fox, Gr. Myſt.</hi> pag. 331.</p>
+               <p>The words of the Everlaſting and true Light, <hi>who is the Eternal Living God,</hi> and the King of Saints; which he gave unto me his Servant, to De<g ref="char:EOLhyphen"/>clare to the Inhabitants of the Earth, <hi>&amp;c.</hi>— Heark<g ref="char:EOLhyphen"/>en, O ye Nations, <hi>&amp;c.</hi> Thus ſaith the Lord God of Heaven and Earth, whoſe Name is the Light, I am the Lord, and there is none elſe can ſave: <hi>I the Light created all things,</hi> and Form'd, and made you all of the Duſt.</p>
+               <p>I the Light gave unto every one of you Life and Breath; and you and all things are upheld by me the Light.</p>
+               <p>You ſcorn me <hi>the Light in you,</hi> and count me a Low, Poor, weak Thing, not worth taking no<g ref="char:EOLhyphen"/>tice of: You have diſobeyed me, and diſhonour<g ref="char:EOLhyphen"/>ed me, and called me <hi>a Natural light:</hi> You fight againſt me, <hi>the Light and Life within you.</hi> And I the Light, have been oppreſſed <hi>in you, and by you:</hi> But verily my Spirit ſhall not alwayes ſtrive with you: For verily, <hi>I the Lord God Almighty,</hi> who am the Light, which have made manifeſt your Iniquities to you, which ſome of you <hi>call Natu<g ref="char:EOLhyphen"/>ral.</hi> And ſay, That thoſe who are led and guided by me <hi>the Light within,</hi> which makes manifeſt ſin: That they are guided by the Spirit of Error and De<g ref="char:EOLhyphen"/>luſion: <hi>Mark;</hi> I will make you know your Blaſ<g ref="char:EOLhyphen"/>phemy; and you ſhall know and feel to your ever<g ref="char:EOLhyphen"/>laſting
+<pb n="7" facs="tcp:41681:10"/>
+Deſtruction, if you ſpeedily repent not, That I the Light which lets you ſee ſin, and reproves for it, am Spiritual; and <hi>am the Spirit of Truth: Mark,</hi> I the Light made you all of one Blood, <hi>&amp;c.</hi> But many of you have ſlighted me, <hi>the Light in you:</hi> I will make you bow, at my Name, the Light; and you ſhall feel <hi>'tis not Natural,</hi> (as ſome of you have ſaid of it:) For it ſhall break you to pieces, and all your Profeſſions, and Wiſdom, which is out of the Light. <hi>I the Light in you,</hi> will confound it all. I'le break all Sects, Opinions, and gathered Churches, ſo called; which are not in me. <hi>I the Light in you,</hi> will take away all Peace from the Earth: Yea, I'le bring you to your Wits end: I'le burn your Heavens; all your Joy, your Peace, your Righteouſneſs, which ſtand in the power of Darkneſs. <hi>I the Light in you,</hi> will conſume it all. I'le burn Heaven and Earth; I'le burn within and without: I'le ſtrike with Aſtoniſh<g ref="char:EOLhyphen"/>ment, with Fear and Amazement; with Madneſs and Deſtruction: I'le bring Plagues within and without, until I have conſumed all you my Ene<g ref="char:EOLhyphen"/>mies, who will not own me, <hi>the Light within.</hi> Thus G. <hi>Fox,</hi> the younger, in a Collection of ſe<g ref="char:EOLhyphen"/>veral of his Books, <hi>pag.</hi> 47, 49, 50, 51, 52.</p>
+               <p>All mind that Gift of God in your ſelves, which maketh you ſenſible of your preſent condition: You muſt receive <hi>the living Principle of God,</hi> in your own particular Veſſels. Which Principle, <hi>I call the Light;</hi> it being a proper Name for it: But I ſhall not deſire to Tie up any of you, to give this principle of Truth, only the Name of Light, I ſhall not matter if you call it, <hi>the Truth:</hi> Or, the Gift of God: Or a Meaſure of <hi>the Eternal Be<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:41681:11"/>
+G. Fox, Younger. Ibid.</hi> 171.</p>
+               <p>Many more Proofs might be produced; but I ſuppoſe theſe may ſuffice to confirm my firſt Charge: I ſhall now proceed to the next.</p>
+               <p n="2">(2.) <hi>That the ſoul is part of God; of Gods Be<g ref="char:EOLhyphen"/>ing; without Beginning, and alſo Infinite;</hi> See Dial. 1. pag. 16.</p>
+            </sp>
+            <sp>
+               <speaker>Will. Pen.</speaker>
+               <p>What ſo baſe? What ſo Irreligious as this Per<g ref="char:EOLhyphen"/>verſion? Men nor Devils could never ſtudy more our wrong, than this pretended Chriſtian hath done. If this be his Chriſtianity: The God of <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> preſerve my Soul for ever com<g ref="char:EOLhyphen"/>ing within the Borders of ſuch a Religion. Chri<g ref="char:EOLhyphen"/>ſtianity is abſurd by ſuch Traducers; and Gods Spi<g ref="char:EOLhyphen"/>rit grieved by ſuch Injuſtice: I would not uſe the worſt of Men, no, not Devils at this unequal rate, he deals with us: Who both Miſ-cites his words, and abuſeth the true meaning of what is truly Ci<g ref="char:EOLhyphen"/>ted. <hi>Reaſ, againſt Rayl. pag.</hi> 65.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>You have heard what <hi>Will. Pen,</hi> hath ſaid touch<g ref="char:EOLhyphen"/>ing this Charge: Be pleaſed alſo to hear my Quo<g ref="char:EOLhyphen"/>tations: Read at length, and then Judge.</p>
+               <p>Is not <hi>the Soul without Beginning,</hi> coming from God, returning into God again? Who hath it in his hand: And Chriſt the Power of God; The Bi<g ref="char:EOLhyphen"/>ſhop of the Soul; which brings it up into God, which came out from Him: Hath this Beginning or Ending? And, Is not this <hi>Infinite</hi> in it ſelf? <hi>G. Fox, Gr. Myſt. pag.</hi> 90.</p>
+               <p>
+                  <pb n="9" facs="tcp:41681:11"/>Magnus Byne, <hi>ſaith, The Soul is not Infinite in it ſelf, but it is a Creature: And</hi> Rich. Baxter, <hi>ſaith, It is a Spiritual ſubſtance:</hi> Now conſider, <hi>(ſaith G. Fox,)</hi> What a condition, theſe called Miniſters are in. They ſay, That which is a Spi<g ref="char:EOLhyphen"/>ritual ſubſtance <hi>is not Infinite in it ſelf;</hi> but a Crea<g ref="char:EOLhyphen"/>ture. That which came out from the Creator, and is in the hand of the Creator; which brings it up, and to the Creator again: This is <hi>Infinite</hi> in it ſelf. <hi>Gr. Myſt. pag.</hi> 29.</p>
+               <p>God breathed into man the breath of Life, and he became a Living Soul: God who hath all ſouls in his hand. And is not this which cometh out from God which is in Gods hand, <hi>part of God?</hi> of God, and from God, and to God again. Which ſoul Chriſt is the Bi<g ref="char:EOLhyphen"/>ſhop of: And is not this which came out from God, which God hath in his hand, taken up into God again: which Chriſt the Power of God, is the Biſhop of: <hi>Is not this of Gods be<g ref="char:EOLhyphen"/>ing?</hi> Gr. Myſt pag. 100.</p>
+               <p>Is not this <hi>of his Being,</hi> the Soul which he hath in his hand. <note n="*" place="margin">
+                     <p>This is that <hi>G. Fox,</hi> to whom <hi>Joſiah Coal,</hi> an emi<g ref="char:EOLhyphen"/>nent <hi>Quaker,</hi> hath written thus:</p>
+                     <floatingText type="letter" xml:lang="eng">
+                        <body>
+                           <p>Dear, <hi>G. Fox,</hi> who art the Father of many Nati<g ref="char:EOLhyphen"/>ons, whoſe life hath reach<g ref="char:EOLhyphen"/>ed through us thy Chil<g ref="char:EOLhyphen"/>dren, even to the Iſles afar off; to the begetting of many to a lively Hope: For which, Generations to come <hi>ſhall call thee bleſ<g ref="char:EOLhyphen"/>ſed:</hi> Whoſe being and habitation is in the Power of the Higheſt; in which thou Rules and Governs in Righteouſneſs; and thy Kingdom is Eſtabliſhed in Peace, and the Increaſe thereof without end. <hi>Dat.</hi> 21ſt. <hi>day of the</hi> 12<hi rend="sup">th.</hi> 
+                              <hi>Mon.</hi> 1658. See <hi>Tyr. Detected. pag.</hi> 19.</p>
+                        </body>
+                     </floatingText>
+                  </note> 
+                  <hi>G. Fox, Gr. Myſt. p.</hi> 68.</p>
+               <p>I preſume you are ſatisfied that in this particular, I have done
+<pb n="10" facs="tcp:41681:12"/>
+the <hi>Quakers</hi> no wrong. My next Charge is this:</p>
+               <p>Charge. 3.</p>
+               <p n="3">(3.) <hi>I do accuſe</hi> the Quakers, <hi>for denying Jeſus Christ to be a diſtinct Perſon without us.</hi> See Dial. 3. pag. 2.</p>
+            </sp>
+            <sp>
+               <speaker>VVill Pen.</speaker>
+               <p>Becauſe we aſſert the true Light with which every man is enlightned to be in it ſelf <hi>the Chriſt of God, and the Saviour of the world. Tho. Hicks,</hi> doth infer, That we deny the outward Sufferings of Chriſt in his bodily Appearance. <hi>Reaſ. againſt Rayl.</hi> pag. 56.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>
+                  <hi>VVhether herein I have miſreported their belief, let theſe Quotations be read and conſidered.</hi>
+               </p>
+               <p>Jeſus Chriſt, <hi>a perſon without us;</hi> is not Scrip<g ref="char:EOLhyphen"/>ture Language; but the <hi>Anthropomorphites,</hi> and <hi>Mugletonians.</hi> G. Whitehead. Dip. Pl. p. 13.</p>
+               <p>The <hi>Socinian</hi> tells us of a <hi>Perſonal Christ;</hi> and that the Man Chriſt Jeſus our Lord, hath in Hea<g ref="char:EOLhyphen"/>ven a place remote from Earth; a Humane body: But doth he believe him to be the Eternal God, whilſt he Imagines him to be <hi>a Perſonal Christ?</hi> a Humane body ſo Limited and confined to a Re<g ref="char:EOLhyphen"/>moteneſs.
+<pb n="11" facs="tcp:41681:12"/>
+G. <hi>VVhitehead, Append. to Reaſ. againſt Rayl.</hi> pag. 21.</p>
+               <p>Where proves he by Scripture, that Chriſts ſe<g ref="char:EOLhyphen"/>cond coming, without Sin to Salvation, <hi>is a perſon<g ref="char:EOLhyphen"/>al coming.</hi> G. Whitehead, <hi>Ibid. pag.</hi> 24. 'Tis a deſign of Satan to keep men in carnal Imaginations and Dark thoughts of a Humane, Perſonal Chriſt. G. <hi>VVhitehead, Ib. pag.</hi> 27.</p>
+               <p>
+                  <hi>I tell,</hi> Will. Pen, <hi>that his not ſpeaking to this point, ſignifies that he is Pinch'd:</hi> See Dial. 3. pag. 26. <hi>
+                     <g ref="char:V">Ʋ</g>nto which he returns this anſwer.</hi> Why, are we Pinch'd becauſe we ſay nothing to a Doctrine the Scripture ſaith nothing of? Give me one place that mentions Chriſt to be <hi>a diſtinct Perſon without us.</hi> Art thou ſo Deſtitute of common ſence, as to think of proving the <hi>Quaker</hi> no Chriſtian, becauſe <hi>he denies a Doctrine</hi> not expreſſed in Scripture? <hi>VVill. Pen, counterfeit Chriſt. pag.</hi> 77. and in <hi>pag.</hi> 78. He calls this, his Disbelief of my Scriptural belief.</p>
+               <p>However <hi>(ſaith VVill. Pen)</hi> I hope for our tenderneſs in this Particular: Conſidering that <hi>Tho. Hicks</hi> his Charge is no Scripture Phraſe: And that ſuch like Expreſſions occaſion People to Re<g ref="char:EOLhyphen"/>tain, Mean and Dark apprehenſions of God and Chriſt, and his place of Reſidence; we ſhall not ſuffer in the Minds of our ſober Readers as men Un<g ref="char:EOLhyphen"/>deſerving the Name of Chriſtians. <hi>VVill. Pen, coun<g ref="char:EOLhyphen"/>terfeit Christ. pag.</hi> 79.</p>
+               <p>
+                  <pb n="12" facs="tcp:41681:13"/>Gods Chriſt <hi>is not distinct</hi> from his Saints, nor his Body, for he is within them: <hi>not diſtinct</hi> from their ſpirits, <hi>G. Fox. Gr. Myſt. p.</hi> 207.</p>
+               <p>Such are deceiv<g ref="char:EOLhyphen"/>ed that ſay Chriſt <hi>is diſtinct</hi> from the Saints, <hi>Ib. p.</hi> 16.</p>
+               <p>If there be any other Chriſt but he that was crucified within, <hi>he is the falſe Chriſt.</hi> And he that hath not this Chriſt that was riſen, and crucified with<g ref="char:EOLhyphen"/>in, is a Reprobate: Though Divels and Reprobates may make a talk of him without, <hi>G. Fox, Ib. p.</hi> 206.</p>
+               <p>
+                  <hi>Robert Waſtfield,</hi> a noted <hi>Quaker,</hi> being asked this Que<g ref="char:EOLhyphen"/>ſtion, <hi>Why they ſpoke and writ ſo darkly and doubtfully of the Perſon of Chriſt?</hi> His An<g ref="char:EOLhyphen"/>ſwer was, Becauſe you are not able to bear what we have to hold forth concerning him: Adding, that if they ſhould de<g ref="char:EOLhyphen"/>clare what they held concern<g ref="char:EOLhyphen"/>ing Jeſus Chriſt, they ſhould be ſtoned in the ſtreets.</p>
+               <p>Another leading Quaker be<g ref="char:EOLhyphen"/>ing asked <hi>What he thought of Jeſus Chriſt, born at Bethle<g ref="char:EOLhyphen"/>hem? and dying at Jeruſa<g ref="char:EOLhyphen"/>lem?</hi> Anſwered, Jeſus Chriſt at Jeruſalem, a type, a figure, a ſhadow, that is paſt away: What have you to do with Chriſt at Jeruſalem? <hi>Have done with him.</hi> Both theſe In<g ref="char:EOLhyphen"/>ſtances are atteſted by <hi>Mr. Nath. Robinſon;</hi> Miniſter at <hi>Southampton.</hi>
+               </p>
+               <p>The next particular Opinion which I charge the Quakers with, is this.</p>
+               <p n="4">4. <hi>That Chriſt redeems himſelf:</hi> This I draw as a neceſſary conſequence from their words: ſee <hi>Dial.</hi> 1ſt. <hi>p.</hi> 47.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:41681:13"/>
+               <speaker>William Pen.</speaker>
+               <p>This is a ſtumble and a groſs perverſion of our words: <hi>Reaſ. againſt Rayl. p.</hi> 62.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>
+                  <hi>Whether this be a perverſion or not, I ſhall refer you to their own words.</hi>
+               </p>
+               <p>Few are come to know what it is that wants Re<g ref="char:EOLhyphen"/>demption; and that the promiſe is to: For there is <hi>a ſeed</hi> to which the Promiſe of Redemption is, <hi>Ja. Naylor love to the loſt, p.</hi> 47.</p>
+               <p>Chriſt is the Election, and the Elect ſeed, <hi>Ibid. pag.</hi> 32.</p>
+               <p>The Promiſe of God is to <hi>the ſeed</hi> that hath been laden as a cart with ſheaves by the ſinner: which ſeed is the hope Chriſt, <hi>G. Fox Gr. myſt. p.</hi> 324.</p>
+               <p>We doe aſſert the Redemption of the ſeed: <hi>Will. Pen. Reaſ. againſt Rayl. p.</hi> 62.</p>
+               <p>Tis no wayes abſurd that we affirm, That the end of Gods manifeſting himſelf in the fleſh, was for the Redemption and deliverance of <hi>His Holy life,</hi> that was in a man as a ſmall ſeed, even the ſmalleſt of ſeeds, that had been long vex'd, grieved, and preſs'd down by ſin and iniquity; <hi>Will. Pen Ib. p.</hi> 63. This ſeed was, and is pure for ever, <hi>Ib. p.</hi> 64.</p>
+               <p>That which was loſt is ſtill in mans heart, and there it muſt be ſought, for it remains ſtill in the houſe, that is, mans heart, this is the thing to be ſought, This Chriſt came to ſeek and to ſave, And all his miniſters preach'd people <hi>to this,</hi> the loſt in
+<pb n="14" facs="tcp:41681:14"/>
+man, a loſt God, a loſt Chriſt <note n="*" place="margin">
+                     <p>
+                        <hi>G. Keith.</hi> In a meeting with me a few weeks ſince, told me, That he added theſe words, <hi>(viz.) That they might find a loſt God, a loſt Chriſt whom they had loſt,</hi> I then anſwered, tis true, thoſe words were added, yet were they no other<g ref="char:EOLhyphen"/>wiſe ſerviceable to him, than as a blind, to deceive his unwary reader; For, Firſt, By loſt in his whole diſcourſe, in that book cited, is intended of God and Chriſt, which he there calls, <hi>The principle, Kingdom, or Appearance of Chriſt by his light in mans heart.</hi> And as Je<g ref="char:EOLhyphen"/>ſus Chriſt came to ſeek, and ſave the loſt, ſo all his miniſters preach'd people <hi>to this,</hi> The loſt in them.</p>
+                     <p>Secondly, The ſence I put upon the word <hi>loſt,</hi> is no other, Than what, <hi>William Pen</hi> allows; loſt, <hi>ſaith he,</hi> As taken by <hi>Tho. Hicks,</hi> is meant of mans loſt condition, And as there uſed by <hi>G. Keith,</hi> is underſtood of <hi>God and Christ,</hi> whom man had loſt: <hi>Rea. againſt Rayl. pag.</hi> 61.</p>
+                     <p>Thirdly, I further ſaid that the ſence, in which I repreſented him, was according to the opinions of others of his friends.</p>
+                  </note>, This was the ſum and ſubſtance of their Doctrine, <hi>G. Keith. Immed. Revel. p.</hi> 75, 76.</p>
+               <p>When God created man, He put his Image, <hi>Chriſt the expreſs image of himſelf,</hi> in man. He breathed into him the breath of life, He lived in God, And Chriſt the light of men, was his life, lived in him: then the Lamb was not ſlain, <hi>Chriſt,</hi> the Lamb, the life of man— But when man ſinned—ſo <hi>the Lamb came to be ſlain in him from the foundation of the world,</hi> That Holy, meek, harmleſs nature: <hi>The Lambs nature was ſlain in him</hi>—Now the bow<g ref="char:EOLhyphen"/>els of the Fathers love, ſtir'd in compaſſion to the work of his own hands, <hi>that of the pure creation in man,</hi> which though ſhut up in death, yet it remain'd and periſh'd not, as to its being, It did not become a nothing, but remain'd a being, <hi>And
+<pb n="15" facs="tcp:41681:14"/>
+this is the loſt,</hi> which God ſent his ſon into the world to ſeek and to ſave, not to ſeek and ſave the old Adam, that birth of the Serpents beget<g ref="char:EOLhyphen"/>ting, but to deſtroy it; for it is not capable of Gods ſalvation, But that, which Chriſt came to ſave, is that of God, which proceeded from him, <hi>The ſeed of God in man</hi>
+                  <note n="*" place="margin">Judge Reader whether I have wronged <hi>G. Keith</hi> or not.</note>, The ſeed of <hi>Abraham,</hi> whereof <hi>Abrahams</hi> old decayed body, as good as dead, and <hi>Sarahs</hi> bar<g ref="char:EOLhyphen"/>ren womb was a type, <hi>G. Keith Immed. Revel. p.</hi> 44. 45, 46. of this ſeed, he elſewhere, ſpeaks thus; what the ſeed, and birth of God in us, <hi>Iudgeth, or diſcerneth, or doth is ever infallible,</hi> the eye of the ſeed, alwayes ſeeth infal<g ref="char:EOLhyphen"/>libly,<note place="margin">This Book Intituled <hi>Im<g ref="char:EOLhyphen"/>mediat Revelation, G. Keith</hi> affirmed to me, (in the hearing of many cre<g ref="char:EOLhyphen"/>dible witneſſes) that it was written by the immediate Inſpiration of the Spirit of God.</note> Its ear, alwayes heareth infallibly, its hand alwayes acteth in<g ref="char:EOLhyphen"/>fallibly, <hi>Ibid, p.</hi> 23. <hi>This ſeed, and birth of God in man, is that which</hi> Geo. Keith <hi>ſaith, Chriſt came to ſeek and ſave.</hi>
+               </p>
+               <p>Theſe inſtances conſidered, I ſhall leave it with you to Judge, whether my conſequence was not proper from their words, my next charge is this.</p>
+               <p n="5">
+                  <pb n="16" facs="tcp:41681:15"/>(5.) <hi>That the</hi> Quakers <hi>do deny the Scriptures to be the Rule of Faith, and Practice unto Chriſtians:</hi>
+               </p>
+               <p>Proof.</p>
+               <p>We deny the Scriptures to be the Rule of Faith and Practice: In honour to that Divine Light that was the Authour of them, <hi>&amp;c. Will. Pen. Reaſ. againſt Rayl. pag.</hi> 48.</p>
+               <p>There is nothing in the Scripture that is a duty upon me, or which I am obliged to obey, becauſe there Recorded: Whatſo<g ref="char:EOLhyphen"/>ſoever is a Command to me, I muſt not receive from any man or thing without me; <hi>nay, not the Scripture it ſelf:</hi> Yea, it is the greateſt Error in the world, that ever was In<g ref="char:EOLhyphen"/>vented, and the ground of all Error, to affirm that the Scripture ought to be a Rule to Chriſtians. <hi>Ben. Furly,</hi> a noted <hi>Quaker,</hi> in a Letter. <hi>See Dial</hi> 1. <hi>pag.</hi> 79.</p>
+               <p>He that perſwades people to let the Scrip<g ref="char:EOLhyphen"/>tures be the Rule of Faith and Practice, would keep People in Darkneſs: For whoſo<g ref="char:EOLhyphen"/>ever walks by the Rule without them, and teach men ſo to do; would make void the Cove<g ref="char:EOLhyphen"/>nant of Life, and Peace. <hi>Edw. Burrows works. pag.</hi> 62.</p>
+               <p>
+                  <hi>G. VVhitehead,</hi> ac<g ref="char:EOLhyphen"/>counts it Idolatry to call the Bible, a Means of our knowing God. <hi>Dip. Pl. pag.</hi> 13.</p>
+               <p>To ſuch as ſay the Scriptures are the Rule, <hi>G. Whitehead writes thus:</hi> Poor men, you have ſhewn your ſelves ſufficiently herein: And what an Emp<g ref="char:EOLhyphen"/>ty, Implicite Faith you are in; and how void,
+<pb n="17" facs="tcp:41681:15"/>
+both of the Knowledge of God, Chriſt, and Sal<g ref="char:EOLhyphen"/>vation you are: And how yet in your ſins; having denied Chriſt and his Light within to be your Rule, and Way, and Foundation; as he is to his Fol<g ref="char:EOLhyphen"/>lowers: And ſo you are walking by your Fancies, and Imaginations; who ſet the Scriptures in the place of Chriſt, as your only abſolute Rule; and ground of your Faith and Knowledge. <hi>Chriſt aſcended, pag.</hi> 11.</p>
+               <p>
+                  <hi>Charge,</hi> 6.</p>
+               <p n="6">(6.) <hi>That the ſpeaking of the Spirit in any, is of greater Authority than the Scriptures.</hi> See Dial. 1. pag. 28.</p>
+               <p>Proved.</p>
+               <p>
+                  <hi>This Queſtion was put to a</hi> Quaker, <hi>as</hi> G. VVhit<g ref="char:EOLhyphen"/>head, confeſſeth: <hi>Do you esteem of your ſpeakings to be of as greater Authority, as any Chapter in the Bible?</hi>
+               </p>
+               <p>To which his Anſwer is, That which was ſpoken from the Spirit of Truth in any, is of as great Au<g ref="char:EOLhyphen"/>thority as the Scriptures, and Chapters are, and greater. <hi>G. VVhithead, Serious Apol. pag.</hi> 49.</p>
+               <p>
+                  <hi>Charge.</hi> 7.</p>
+               <p n="7">(7.) <hi>That is no command from God to me, which God hath given by way of command to another. Nei<g ref="char:EOLhyphen"/>ther did any of the Saints Act by the command which was to another: Every one obeyed their own com<g ref="char:EOLhyphen"/>mand.</hi> See Dial. 2. pag. 59.</p>
+               <p>
+                  <pb n="18" facs="tcp:41681:16"/>
+                  <hi>I prove this.</hi>
+               </p>
+               <p>That is no Command from God to me, which he Commands to another: Neither did any of the Saints we read of in Scripture, Act by the Com<g ref="char:EOLhyphen"/>mand which was to another, <hi>&amp;c.</hi> They obeyed eve<g ref="char:EOLhyphen"/>ry one their own Command: And thou <hi>J. Turner,</hi> or any other who goes to Duty, as you call it, <hi>by Immitation from the Letter without,</hi> which were Commands to others; in your own VVills and Time; your Sacrifice is not accepted; but is an Abomination to the Lord. <hi>Edw. Burroughs works, pag.</hi> 47.</p>
+               <p>You take up a Command from the Letter, and Imitate the Apoſtles, in that Mind and Nature, which in the Apoſtles was Crucified; and you ſay Chriſt Commands it; when the Letter doth but de<g ref="char:EOLhyphen"/>clare it, you ſay, <hi>in ſuch a verſe of ſuch a Chapter:</hi> Such a Command is, not having received the Com<g ref="char:EOLhyphen"/>mand by the ſame Spirit. Here you are proved to be them which uſe their Tongues, and ſay, He ſaith it; when God hath not ſpoken to you; <hi>but as you read it, with<g ref="char:EOLhyphen"/>out you:</hi> As the Falſe Prophets may do the words of the true Pro<g ref="char:EOLhyphen"/>phets: And thus you are in the <hi>VVitchcraft. Edw. Burroughs works.</hi> pag. 105.</p>
+               <p>Theſe words <hi>Edw. Bur.</hi> gave out, (as he himſelf ſaith,) by Order and Autho<g ref="char:EOLhyphen"/>rity given to him, by the Spirit of the Living God, the 31<hi rend="sup">th.</hi> day of the 10<hi rend="sup">th.</hi> Month; in the year of the worlds Account, 1655. about the 4<hi rend="sup">th.</hi> hour in the Morning, when he was upon his Bed in <hi>Kilkenny City,</hi> in the Nation of <hi>Ire<g ref="char:EOLhyphen"/>and:</hi> Given under my hand, and Sealed by the Spirit <hi>of the Eternal God,</hi> who lives for ever; through a Servant of the Lord. <hi>Edw. B.</hi> ſee his works, <hi>pag.</hi> 96.</p>
+               <pb n="19" facs="tcp:41681:16"/>
+               <p>
+                  <hi>Charge.</hi> 8.</p>
+               <p n="8">(8.) <hi>That Juſtification by that Righteouſneſs which Chriſt fulfilled for us, wholly without us, is a Doctrine of Divels.</hi> Dial. 1. pag. 38.</p>
+               <p>Proved.</p>
+               <p>And indeed this we deny; <hi>(viz. Juſtification by the Righteouſneſs which Chriſt fulfilled in his own Per<g ref="char:EOLhyphen"/>ſon for us, wholly without us:)</hi> And boldly affirm it in the Name of the Lord, to be a Doctrine of Di<g ref="char:EOLhyphen"/>vels; and an Arm of the Sea of Corruption, which doth now Deluge the world. <hi>VVill. Pen, Serious Apol. pag.</hi> 148.</p>
+               <p>
+                  <hi>Charge.</hi> 9.</p>
+               <p n="9">(9.) <hi>That the</hi> Quakers <hi>hold Justification by works.</hi> See Dial. 3. pag. 2. And I now add, by works in the ſtricteſt Notion.</p>
+               <p>Proved.</p>
+               <p>God accepts not any, where there is any failing: Or who do not fulfill the Law, and Anſwer every Demand of Juſtice. <hi>Edw. Burroughs works, pag.</hi> 33. In anſwer to the 14<hi rend="sup">th.</hi> 
+                  <hi>Query:</hi> VVas not <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> Juſtified by works? VVe muſt not conceive that his Perſonal-Offering was not a Juſtifying-righ<g ref="char:EOLhyphen"/>teouſneſs: But that God was pleaſed to count it ſo. Nor was there <hi>any Imputation of anothers Righte<g ref="char:EOLhyphen"/>ouſneſs to Abraham;</hi> but on the contrary. <hi>His perſonal Obedience,</hi> was the ground of that juſt Im<g ref="char:EOLhyphen"/>putation. Therefore, that any ſhould be Juſtified by anothers Righteouſneſs Imputed, and not Inhe<g ref="char:EOLhyphen"/>rent in him; is both Ridiculous and Dangerous. <hi>VVill. Pen, Reaſ. against Rayl. pag.</hi> 80.</p>
+               <p>
+                  <pb n="20" facs="tcp:41681:17"/>
+                  <hi>Charge.</hi> 10.</p>
+               <p n="10">(10.) <hi>That Chriſt fulfilled the the Law, only as our pattern.</hi> See Dial. 2. pag. 52. <hi>Compared with</hi> Sand, Foundation, p. 26.</p>
+            </sp>
+            <sp>
+               <speaker>Will. Pen.</speaker>
+               <p>If he can find the word <hi>Only</hi> there: Or ſuch an Anſwer to ſuch a Queſtion; or the Matter ſtrictly contained in that Queſtion, he hath not wronged me, But ſure I am, there is no ſuch Queſtion: and as ſure, The fulfilling of the Law, was not the ſub<g ref="char:EOLhyphen"/>ject Treated on: And very certain, the word <hi>Only</hi> was not there: Therefore a Forger, <hi>&amp;c. Will. Pen, Reaſ. against Rayl, pag.</hi> 78.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>Let the Book and Page referred to by me, be read; and then Judge; whether <hi>Will. Pen</hi> was adviſed thus to anſwer.</p>
+               <p>
+                  <hi>For not the Hearers of the Law are just before God; but the Doers of the Law ſhall be juſtified,</hi> Rom. 2.13. From whence (ſaith <hi>Will. Pen,</hi>) how un<g ref="char:EOLhyphen"/>anſwerably may I obſerve, unleſs we become doers of that Law, which Chriſt came not to deſtroy, but as our Example to fulfil; we can never be Juſtified before God. Nor let any Fancy that Chriſt hath ſo fulfilled it for them, as to exclude their Obedience from being requiſite to their acceptance; but <hi>Only</hi> as their Pattern. <hi>VVill. Pen. Sand. Found. p.</hi> 26.</p>
+               <p>Judge now whether the Law was Treated on; or whether the word <hi>Only</hi> be there. Both which, <hi>Will. Pen</hi> you hear denies. Again, let it be noted, That this very Argument is Printed in <hi>Will. Pens Reaſ. against Rayl. pag.</hi> 94, 95. VVhereby you may be aſcertained that he had his <hi>Sandy Found<g ref="char:punc">▪</g>
+                  </hi> by him, when he charg'd my Citation from it, with Forgery.</p>
+               <p>
+                  <pb n="21" facs="tcp:41681:17"/>
+                  <hi>Charge.</hi> 11.</p>
+               <p n="11">(11.) <hi>That the Doctrine of Christs ſatisfaction, is Irreligious and Irrational.</hi>
+               </p>
+               <p>Proof.</p>
+               <p>That this is true, ſee <hi>Sand. Found. p.</hi> 22. Where <hi>Will. Pen</hi> ſpeaks thus. Conſequences; <hi>(that is from this Doctrine)</hi> Irreligious and Irrational; and concludes one of his Conſequences thus: O the Infamous Portraiture this Doctrine draws of the In<g ref="char:EOLhyphen"/>finite Goodneſs: Is this your Retribution. O In<g ref="char:EOLhyphen"/>jurious Satisfactioniſts! Thus <hi>VVill Pen.</hi>
+               </p>
+               <p>
+                  <hi>Charge.</hi> 12.</p>
+               <p n="12">(12.) <hi>That this Body which dies, ſhall not Riſe again.</hi>
+               </p>
+               <p>Proof.</p>
+               <p>
+                  <hi>G. VVhithead,</hi> aſſerted in the hearing of many Witneſſes, That this Body ſhall not riſe again.</p>
+               <p>Such a Reſurrection is Inconſiſtent with Scripture, Reaſon, and the Belief of all men, right in their wits. <hi>VVill. Pen, Reaſ. againſt Rayl. pag.</hi> 133.</p>
+               <p>For ſhame let us never make ſo much ſtir againſt the Doctrine of Tranſubſtantiation: For the abſur<g ref="char:EOLhyphen"/>dity of that, is rather out-done than equalled by this Carnal Reſurrection. <hi>VVill. Pen. Ibid.</hi> p. 134.</p>
+               <p>The Change which ſhall be is not of Accidents, but of Bodies. <hi>VVill. Pen. Ibid.</hi> p. 136. and in p. 138. He calls it a Barbarous Conceit.</p>
+               <p>From our denying the Reſurrection of the Natu<g ref="char:EOLhyphen"/>ral and Corruptible Body, &amp;c. <hi>Will. Pen. counter<g ref="char:EOLhyphen"/>feit Chr.</hi> p. 32.</p>
+               <p>I hope you are ſatisfied, that I have not in any of theſe 12 Particulars, either Miſcharged or wrong<g ref="char:EOLhyphen"/>ed the <hi>Quakers.</hi>
+               </p>
+               <p>But, If any ſhould Queſtion the Authority of the
+<pb n="22" facs="tcp:41681:18"/>
+Books which I have Cited: I deſire, That <hi>VVill. Pens Reaſ. against Rayl</hi> p. 185, &amp; 186. may be read.</p>
+               <p>VVe ſhall (ſaith <hi>VVill. Pen</hi>) among the many Books writ by us, in general, in Defence of our VVay we profeſs, lay theſe few upon the Heads of our ſeveral Adverſaries; as containing much of what can be ſaid, in behalf of our Principle, and Practices, <hi>viz.</hi>
+               </p>
+               <p n="1">(1.) Prieſts and Profeſſors Principles. (That is the Book Intitled, The Gr. Myſt.) by <hi>G. Fox.</hi>
+               </p>
+               <p n="2">(2.) <hi>Edw. Burroughs,</hi> his VVorks.</p>
+               <p n="3">(3.) Divinity of Chriſt, by G. <hi>VVhithead.</hi>
+               </p>
+               <p n="4">(4.) Immediate Revelation, by <hi>G. Keith.</hi>
+               </p>
+               <p n="5">(5.) Serious Apologie, by G. <hi>Whithead,</hi> and <hi>Will. Pen.</hi>
+               </p>
+               <p n="6">(6.) Chriſt Aſcended, by G. <hi>Whithead.</hi>
+               </p>
+               <p n="7">(7.) The Spirit of Truth Vindicated, by <hi>W. Pen.</hi>
+               </p>
+               <p>Theſe with our preſent Diſcourſe: <hi>(that is Rea<g ref="char:EOLhyphen"/>ſon against Rayl.)</hi> Let them Anſwer: Thus <hi>W. Pen.</hi>
+               </p>
+               <p n="2">2. Head, or Matters of Practice.</p>
+               <p>
+                  <hi>That it concerns them to render their Adverſaries as Ridiculous as they can; and to make their Friends believe, they do nothing but contradict themſelves: And if this fail, to Inſinuate by way of Queſtion, ſomething that may be a Slander to them:</hi> See his Dial. 1. pag. 72.</p>
+            </sp>
+            <sp>
+               <speaker>VVill. Pen.</speaker>
+               <p>This is a Forgery, O horrible Impiety! God, our God Vindicate our Innocency from theſe Hil<g ref="char:EOLhyphen"/>liſh Slanders. <hi>Reaſ. againſt Rayl. pag.</hi> 138. 161. Were we what he Repreſents us to be, in this very Matter, the ſevereſt Plagues and Judgments of the Eternal God, we might juſtly expect to be our Portion. <hi>Ibid. pag.</hi> 4.</p>
+            </sp>
+            <sp>
+               <pb n="23" facs="tcp:41681:18"/>
+               <speaker>Tho. Hicks.</speaker>
+               <p>Whether I have wrong'd them or not, in giving ſuch an Anſwer in their Names: Let theſe Quota<g ref="char:EOLhyphen"/>tions be Read, and Conſidered:</p>
+               <p>Our Ignorance of his Name, deprives us of that Scope, which we might otherwiſe have, for produ<g ref="char:EOLhyphen"/>cing perhaps as large a Catalogue of Doctrinal Mi<g ref="char:EOLhyphen"/>ſtakes; in what he himſelf, or thoſe to whom he adheres, have writ: Perhaps alſo, he was afraid of ſuch Truth as may be ſeaſonably told of him, to <hi>the Diſcrediting of his Enterpriſe.</hi> Thus <hi>Will Pen,</hi> in anſwer to the Author of the Spirit of the <hi>Quakers</hi> tried. <hi>Spirit of truth Vind. pag.</hi> 6.</p>
+               <p>G. <hi>Whitehead,</hi> in his Anſwer to Mr. <hi>Danſon,</hi> In<g ref="char:EOLhyphen"/>ſinuates a Slander upon him, by way of Queſtion: He, (ſaith <hi>Whitehead</hi>) ſtiles himſelf ſometimes Miniſter of the Goſpel at <hi>Sandwich:</hi> But <hi>is not ra<g ref="char:EOLhyphen"/>ther that Report of him true, that there he was given to Gaming, Bowls, and Ninepins,</hi> &amp;c. See <hi>Divi<g ref="char:EOLhyphen"/>nity of Chriſt, written by</hi> G. <hi>Whitehead.</hi> pag. 49.</p>
+               <p>This Queſtion was put by G. <hi>Whitehead,</hi> not be<g ref="char:EOLhyphen"/>cauſe Mr. <hi>Danſon</hi> was guilty, but meerly to Slan<g ref="char:EOLhyphen"/>der him; will appear from what <hi>Will. Pen</hi> ſays in his Apology for his Friend <hi>Whitehead;</hi> in this very thing.</p>
+               <p>Who knows not (ſaith <hi>Pen</hi>) That the Prieſts give themſelves a Liberty of more than that? What Game (almoſt) do they ſcruple to play at. And if G. <hi>Whitehead, to detect the Prieſt,</hi> ſince others gave themſelves that Looſe, did therefore make that Query: Muſt it therefore be taken for granted that he concluded him ſuch? <hi>Spir. of truth Vind.</hi> page 137.</p>
+               <p>Hear the Complaint of another, who very well
+<pb n="24" facs="tcp:41681:19"/>
+knows the Temper and Practices of the <hi>Quakers.</hi>
+               </p>
+               <p>If any perſons, <hi>(ſaith he)</hi> Write or Speak their Grief (<hi>that is at the</hi> Quakers <hi>Miſcarriages;</hi>) that the Publick take notice of it; they will Repreſent them under ſuch Terms, as may render them <hi>Odious:</hi> And the more Effectually to weaken their Teſtimo<g ref="char:EOLhyphen"/>nies, they will Fix upon them, <hi>Scurrilous and con<g ref="char:EOLhyphen"/>temptible Appellations.</hi> And to prevent any Inqui<g ref="char:EOLhyphen"/>ſition into the truth of the Matter, they would make People believe, that they are Envious, Ma<g ref="char:EOLhyphen"/>licious, Dirty, Factious, and Ranting Spirits. <hi>Spir. of the Hat.</hi> pag. 36, 37.</p>
+               <p n="2">(2.) <hi>I accuſe the</hi> Quakers, <hi>for calling ſuch as ask them Queſtions, Reprobates: And ſaying they are in the Sorcery and Witchcraft,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VVill. Pen.</speaker>
+               <p>This is a great Lye. <hi>Reaſ. againſt Rayl.</hi> pag. 154, 156.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>Be pleaſed to read <hi>Edw. Burroughs</hi> his Anſwers to Twenty ſerious Queſtions; and you will find that which is ſufficient to clear me from Lying. His words are theſe: <hi>Thou Reprobate,</hi> and child of dark<g ref="char:EOLhyphen"/>neſs; the Light condemns thee, and <hi>thy Generation eternally:</hi> We witneſs thee to be in <hi>the Sorcery and Witchcraft:</hi> Thou art Darkneſs it ſelf. <hi>Thou Dra<g ref="char:EOLhyphen"/>gon;</hi> thy Queries are Conjured in the Black-art, out of the bottomleſs Pit: <hi>Thou Diviner;</hi> we wit<g ref="char:EOLhyphen"/>neſs thee <hi>to be the Beaſt,</hi> which wars with the Lamb: <hi>Thou Antichriſt,</hi> which looks at Chriſts Death at <hi>Jeruſalem,</hi> alone: Thou art ſeen with the Light; and with it <hi>condemned for ever.</hi> Thou blind Pha<g ref="char:EOLhyphen"/>riſee and Blaſphemer: <hi>Thou Jeſuite</hi> art pleading <hi>for a Chriſt afar off thee:</hi> Thou art under the Wo;
+<pb n="25" facs="tcp:41681:19"/>
+and from that Wo, thou ſhalt never flee. Let all People ſee, whether thou be not <hi>a blind Ignorant Sot.</hi> Here thou Replieſt thy Sottiſh Queries con<g ref="char:EOLhyphen"/>cerning <hi>the Body of Jeſus,</hi> as the <hi>Devil did</hi> about the <hi>body of Moſes:</hi> Thou diſobedient one; upon whom God will render Vengeance in flaming Fire: Thou <hi>art accurſed:</hi> Thou Beaſt, to whom the Plagues of God are due, upon whom the wrath of God muſt be accompliſhed: <hi>Thou art ſhut out from God for ever:</hi> Thou blind Hypocrite: Thou <hi>Cain:</hi> Thou full of Subtilty: VVith the Light thou art ſeen, and with the Life thou art Judged and Con<g ref="char:EOLhyphen"/>demned: <hi>Thou dead Beaſt;</hi> thou art unredeemed from thy vain converſation, and ſo art not Juſtified; <hi>nor never ſhalt be.</hi> Stop thy Mouth <hi>thou Sorcerer:</hi> The ſame that juſtifies us, ſhall condemn thee Eter<g ref="char:EOLhyphen"/>nally. The manner of Chriſts being in the Saints, thou knoweſt not; who art <hi>a Reprobate;</hi> and ſhalt find him to thy Eternal Condemnation. <hi>O thou dark Beaſt and Conjurer,</hi> Querying with thy conjured words: Thou Blaſ<g ref="char:EOLhyphen"/>phemer, thou Serpent, thou dark Sottiſh Beaſt, <hi>&amp;c.</hi>
+                  <note n="†" place="margin">
+                     <hi>Ed. Burroughs</hi> bleſſed God, that had diſcovered the Queriſt<g ref="char:punc">▪</g> ſaying, thy Queries are anſwered loving<g ref="char:EOLhyphen"/>ly and plainly, in Scripture Lan<g ref="char:EOLhyphen"/>guage and Terms. <hi>Ibid. p. 34.</hi>
+                  </note> 
+                  <hi>Edw. Burroughs</hi>'s <hi>works.</hi> pag. 29. to 34.</p>
+               <p n="3">(3.) <hi>That</hi> VVill. Pen, <hi>by the ſence of the Eter<g ref="char:EOLhyphen"/>nal Spirit, doth declare:</hi> (That thoſe Curſing, Rail<g ref="char:EOLhyphen"/>ing, and Lying Anſwers of <hi>Edw. Burroughs</hi>) were the only fit Anſwers to the Prieſts Trappaning Que<g ref="char:EOLhyphen"/>ſtions. <hi>See Dial.</hi> 3. <hi>pag.</hi> 80.</p>
+            </sp>
+            <sp>
+               <speaker>Will. Pen.</speaker>
+               <p>Oh ungodly Slander! the Lord rebuke thy Foul ſpirit. <hi>Counterfeit Chriſt. pag.</hi> 44.</p>
+            </sp>
+            <sp>
+               <pb n="26" facs="tcp:41681:20"/>
+               <speaker>Tho. Hicks.</speaker>
+               <p>Theſe are <hi>William Pens</hi> words; with reſpect to the Anſwers <hi>Edw. Burroughs</hi> gave to the 20 Que<g ref="char:EOLhyphen"/>ſtions, before hinted. I warrant it (ſaith <hi>Pen</hi>) from God; and by the ſence of his Eternal Spirit, do declare: That it was the Portion and only fit an<g ref="char:EOLhyphen"/>ſwer to be given to thoſe Trap<g ref="char:EOLhyphen"/>paning queſtions. <note n="†" place="margin">O horrid Excuſe of ſuch Raylings, which is far worſe than the Anſwers given.</note> And had <hi>Edw. Burroughs</hi> gone into a Fa<g ref="char:EOLhyphen"/>miliar, opening unto his Vul<g ref="char:EOLhyphen"/>terous, Unclean, Serpentine Eye, all the deep things of the Spirit of God, and My<g ref="char:EOLhyphen"/>ſteries of Holy Kingdom; who was in that Nature, that Crucified the Lord of them; <hi>Edw. Burroughs</hi> had brought the wrath of the Eternal God upon him<g ref="char:EOLhyphen"/>ſelf, inſtead of the Prieſt. <hi>Will. Pen, Reaſ. againſt Rayl. pag.</hi> 164.</p>
+               <p n="4">(4.) Another Evil I accuſe them of, is: <hi>Prefer<g ref="char:EOLhyphen"/>ring their Pamphlets before the Bible.</hi>
+               </p>
+               <p>This was proved from the Titles they give to their own books; and the Titles they give to the Scrip<g ref="char:EOLhyphen"/>ture, <hi>viz. The Voice of Wiſdom: Breathings of true Love: Shield of Truth: A Spiritual Glaſs: Light riſen out of Darkneſs.</hi> Theſe are the Titles given to ſeveral of their books.</p>
+               <p>But the Scriptures are called, <hi>Letter: Dead Letter: Paper, Ink and Writing: Carnal Letter,</hi> &amp;c. 'Tis eaſie to judge by theſe Titles, to which the preference is given.</p>
+               <p n="5">(5.) <hi>They bid people follow the Light within; and if they do not, they load them with bitter Revilings.</hi>
+               </p>
+               <p>
+                  <hi>Will. Pen,</hi> calls this a great Lye. <hi>Reaſ. againſt Rayl. pag.</hi> 154. 156.</p>
+               <p>VVhereas the truth of this is ſo notorious, that
+<pb n="27" facs="tcp:41681:20"/>
+it needs no proof. Witneſs their Railings at ſuch, that in Conſcience oppoſe them, and their Errors.</p>
+               <p n="6">(6.) <hi>They ſay God himſelf is the immediate Teach<g ref="char:EOLhyphen"/>er of his People; and yet they appoint their Mini<g ref="char:EOLhyphen"/>ſters to ſpeak in ſuch a place,</hi> &amp;c. Dial. 2. p. 66.</p>
+               <p>
+                  <hi>Will. Pen,</hi> ſaith, this is a very Lye, <hi>Reaſ. a<g ref="char:EOLhyphen"/>gainst Rayl.</hi> pag. 156.</p>
+               <p>I anſwer, Why may they not as well appoint per<g ref="char:EOLhyphen"/>ſons before-hand, as they do Meetings, ſeveral days before. This latter was made an Excuſe, for <hi>Will. Pens</hi> abſence from this Meeting. It is uſual, ſaid a Friend of <hi>Will. Pens,</hi> for him to appoint Meetings ſome dayes before; engaging to be there, and he muſt not break his promiſe, &amp;c.</p>
+               <p>But if this will not amount to a full Proof of my Charge, then let me refer you to the Complaint of one, that was no ſtranger to their practices.</p>
+               <p>And what meaneth, <hi>(ſaith he of the Quakers)</hi> That certain perſons are <hi>appointed</hi> to ſpend the whole time in Speaking in every Meeting; and all the reſt to come as Hearers, neglecting the Gift in themſelves; only waiting upon their Lips. <hi>Spirit of the Hat.</hi> p. 29.</p>
+               <p n="7">(7.) <hi>I accuſe them for Intitling God to ſleeveleſs Errands.</hi> Of this I have given ſeveral Inſtances. <hi>Dial.</hi> 1. <hi>pag.</hi> 27. which cannot be diſproved.</p>
+               <p n="8">(8.) <hi>I charge them for refuſing a publick Meet<g ref="char:EOLhyphen"/>ing, to Debate the chief things in Difference, be<g ref="char:EOLhyphen"/>tween them and others. <g ref="char:V">Ʋ</g>nder pretence of being cautious of running themſelves into Jeopardies.</hi> See Dial. 3. pag. 88.</p>
+            </sp>
+            <sp>
+               <speaker>Will. Pen.</speaker>
+               <p>This is a Notorious Falſhood. <hi>Counterf. Christ. pag.</hi> 45.</p>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:41681:21"/>
+               <speaker>Tho. Hicks.</speaker>
+               <p>That they did refuſe, I can prove by many Wit<g ref="char:EOLhyphen"/>neſſes; and that they excuſed themſelves as before. <hi>Tho. Priors Letter</hi> to Mr. <hi>Haworth,</hi> will teſtifie. <hi>His words were theſe:</hi>
+               </p>
+               <p>It is expected, that the Book ſtiled, <hi>The Quakers Converted,</hi> be the ſubject of the Diſpute; and alſo that equal Liberty be admitted on both ſides; And that the place be free from Diſturbance and Moleſta<g ref="char:EOLhyphen"/>tion: For we underſtand that ſome of the Magi<g ref="char:EOLhyphen"/>ſtrates have made Enquiry, and are offended. There<g ref="char:EOLhyphen"/>fore I find that my Friends are Cautious, not to run themſelves voluntarily into ſuch Jeopardies, on ſlight Invitations, &amp;c.</p>
+               <p>
+                  <hi>The Reaſons why they deſired the place to be free from Molestation, was given in a ſecond Letter, viz.</hi>
+               </p>
+               <p n="1">(1.) That <hi>W. Haworth,</hi> and his Company might ſeriouſly conſider of it, as not to draw and Invite o<g ref="char:EOLhyphen"/>thers into Hazard and Danger.</p>
+               <p n="2">(2.) That they would be no means or Cauſe of Moleſtation, directly or indirectly; giving the Magiſtrates occaſion either by too much noiſe afore<g ref="char:EOLhyphen"/>hand, or by Heat or Paſſion againſt us.</p>
+               <p>But ſtill the Book, <hi>Stiled the Quaker Converted,</hi> muſt be the ſubject of the Debate.</p>
+               <p>
+                  <hi>Whereas the Meeting was propounded to Debate the chief things in Difference between them and others; and the utmoſt Anſwer that as yet hath been given thereunto, is this:</hi>
+               </p>
+               <p>After the aforeſaid Book hath been fully Exa<g ref="char:EOLhyphen"/>min'd, and Diſcours'd: Then if <hi>W. Haworth,</hi> hath not Diſputing enough, he hath Liberty to propoſe other Queſtions in writing: And if they be ſuch Learned ones as may tend to Peoples Edification. A
+<pb n="29" facs="tcp:41681:21"/>
+A farther time may be granted to Debate them: Thus <hi>Tho. Prior in his ſecond Letter.</hi>
+               </p>
+               <p>Moreover, I did above a Year ago, ſend ſix Que<g ref="char:EOLhyphen"/>ſtions to <hi>G. VVhitehead,</hi> promiſing to meet him to Debate them in the moſt publick Place I could get; but he would not accept thereof. <hi>See Dial.</hi> 3. <hi>p.</hi> 86, 87.</p>
+               <p n="9">(9.) <hi>That they own the Scripture as far as it agrees to the Light in them.</hi> See Dial. 1. pag. 66.</p>
+            </sp>
+            <sp>
+               <speaker>Will. Pen.</speaker>
+               <p>This is an arrant Forgery. <hi>Reaſ. againſt Ray. p.</hi> 160.</p>
+            </sp>
+            <sp>
+               <speaker>Thomas Hicks.</speaker>
+               <p>This is before proved in their aſſerting the Scrip<g ref="char:EOLhyphen"/>tures to be given forth from the light within.</p>
+               <p n="10">(10) <q>Did the light within Create the Heavens and the Earth?</q> yea: <q>Is it the immediate object of Divine Worſhip?</q> yea.</p>
+            </sp>
+            <sp>
+               <speaker>William Pen.</speaker>
+               <p>Theſe Anſwers are Forgeries, <hi>Reaſ. againſt Rayl.</hi> 158, 159.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>See this at large proved, under the Head of the light being God.</p>
+               <p n="11">(11) That if thoſe things objected againſt the Quakers in two former Dialogues be true, that then Will. Pen hath confeſt that a <hi>Quaker</hi> is quite ano<g ref="char:EOLhyphen"/>ther thing than a Chriſtian: <hi>Dial.</hi> 3d. <hi>p.</hi> 1.</p>
+            </sp>
+            <sp>
+               <speaker>William Pen.</speaker>
+               <p>This is a forgery: I never ſaid nor confeſſ'd any ſuch thing in all my life: <hi>Counterf. Chr. p.</hi> 13.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>Will. Pen hath written theſe words. He, (that is, <hi>Tho. Hicks</hi>) now to vindicate himſelf from ſuch Injuſtice, hath given us a ſecond part, wherein he hopes to make good what he hath charged upon us,
+<pb n="30" facs="tcp:41681:22"/>
+by Quotations out of our own Books: which, if faithfully done, <hi>I ſhall freely acknowledge that a Quaker is quite another thing than a Chriſtian,</hi> Will. Pen. Reaſ. againſt Rayl. p. 2.</p>
+               <p n="12">(12) Theſe words; which I relate in VVill. Pens <hi>name</hi>
+                  <g ref="char:punc">▪</g> (viz.) <hi>Were we what he repreſents us, the ſevereſt plagues and Iudgements of God would be our portion</hi> Dial. 3d. p. 1, 2. Theſe I ſay he accounts a Forgery, <hi>Counterf. Chr</hi> p. 15.</p>
+               <p>Let <hi>Will. Pens</hi> own book be read, and you will find theſe VVords there: <hi>(viz.)</hi> were we, what he repreſents us in this very matter, the ſevereſt plagues and judgements of the Eternal God, we might juſtly expect to be our portion for ever, <hi>Will. Pen Reaſ. againſt Rayl. p.</hi> 4.</p>
+               <p n="13">(13) VVill. Pen accuſeth me with a down-right Forgery, in giving this Anſwer in <hi>George Whitheads</hi> name, viz. <hi>That the plagues and judgements of God will follow thee,</hi> Dial. 2. <hi>p.</hi> 1. Reaſ. againſt Rayling, p. 163.</p>
+               <p>The truth of this Anſwer ſee atteſted to, under Mr. <hi>Iohn Gladmans</hi> hand, <hi>Dial.</hi> 3d. <hi>p.</hi> 85.</p>
+               <p n="14">(14) <hi>That their owning Chriſt, is no other than</hi> a meer Myſtical Romance;— <hi>And that the light in them ſees no neceſſity of a Mediator.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VVill. Pen.</speaker>
+               <p>Theſe are lyes and ſlanders, <hi>Reaſ. ag. Rayl. p.</hi> 154.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>They that deny Jeſus Chriſt to be a diſtinct per<g ref="char:EOLhyphen"/>ſon without us, are guilty of the firſt: And they that maintain, That God accepts not any who do not fulfill the Law, and anſwer every demand of Juſtice, can ſee no neceſſity of a Mediator.</p>
+               <p n="15">(15) Another Lye <hi>Will. Pen</hi> doth accuſe me of, is
+<pb n="31" facs="tcp:41681:22"/>
+this: <hi>That the Quakers deny Chriſts viſible coming</hi> and appearance in the world. See his <hi>Reaſ. ag. rayl. p.</hi> 154. where he refers you to <hi>Dial.</hi> 2d. <hi>p,</hi> 37, 45.</p>
+               <p>Be pleaſed to examine the pages referred unto by <hi>Will. Pen</hi> —and then Judge. The queſtion there is this; <hi>Whether Chriſt did not dwell amongſt his Saints after another manner and more Viſible, than now he dwells in them?</hi>
+               </p>
+               <p>To which <hi>Edward Burroughs</hi> return'd this An<g ref="char:EOLhyphen"/>ſwer.</p>
+               <p>For thy word <hi>Viſible:</hi> he is not, nor never was <hi>Viſible</hi> to thee, nor thy Generation, <hi>&amp;c.</hi>
+               </p>
+               <p>Upon this I ſaid, That the <hi>Quaker</hi> denyes that Chriſt was ever viſible to wicked men, ſuch as he eſteemed the Queriſt to be, &amp;c. <hi>See Dial.</hi> 2d. <hi>p.</hi> 37.</p>
+               <p n="16">(16) <hi>That they account the Blood of Chriſt no more than the blood of a common Theif.</hi> See Dial. 1.</p>
+            </sp>
+            <sp>
+               <speaker>VVill. Pen.</speaker>
+               <p>This is an ungodly Aſperſion. <hi>Reaſ. ag. Rayl. p.</hi> 154.</p>
+            </sp>
+            <sp>
+               <speaker>Tho. Hicks.</speaker>
+               <p>See this fully proved, <hi>Dial.</hi> 2d. <hi>p.</hi> 3, 4.</p>
+               <p n="17">(17) That one of their friends bid her husband take another woman, <hi>Dial.</hi> 2d. <hi>p.</hi> 63.</p>
+               <p n="18">(18) That a Revelation hath been pretended to excuſe the payment of a juſt Debt, <hi>Dial.</hi> 1. 26.</p>
+               <p n="19">(19) That ſome of their Friends have excuſed ſome of their Villanies, by pretences to the inno<g ref="char:EOLhyphen"/>cent Life, <hi>Dial.</hi> 3. <hi>Epiſt.</hi>
+               </p>
+               <p>Concerning theſe three laſt, I propoſe this unto the Quakers, that if they will chuſe ſix ſober, and diſintereſted perſons. I alſo will do the like; And if I cannot give ſufficient Reaſons for what I have Ob<g ref="char:EOLhyphen"/>jected againſt them, I will contentedly ſubmit, to what thoſe twelve men ſhall determine.</p>
+            </sp>
+         </div>
+         <div type="certificate">
+            <pb n="32" facs="tcp:41681:23"/>
+            <p>VVe whoſe names are hereunder written, doe certifie that the aforeſaid Quotations, are truly re<g ref="char:EOLhyphen"/>cited out of thoſe Books to which they refer, VVitneſs our hands.</p>
+            <p>My occaſions calling me from the meeting, be<g ref="char:EOLhyphen"/>fore the ending thereof, but ſince, having peruſed the proofs, by com<g ref="char:EOLhyphen"/>paring them with the Qua<g ref="char:EOLhyphen"/>kers Books whence they are cited, I find them to agree. Witneſs my hand.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Kiffen.</hi>
+                     </item>
+                     <item>
+                        <hi>Dan. Dyke.</hi>
+                     </item>
+                     <item>
+                        <hi>Han. Knollys</hi>
+                     </item>
+                     <item>
+                        <hi>John Geſnell</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Paul</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Forty</hi>
+                     </item>
+                     <item>
+                        <hi>John Norcot</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Wilcocks</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Snelling</hi>
+                     </item>
+                     <item>
+                        <hi>Maurice King</hi>
+                     </item>
+                     <item>
+                        <hi>Jonathan Jennings</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Plant</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Morton</hi>
+                     </item>
+                     <item>
+                        <hi>Owen Davis</hi>
+                     </item>
+                     <item>
+                        <hi>John Hunter</hi>
+                     </item>
+                     <item>
+                        <hi>John Snelling</hi>
+                     </item>
+                     <item>
+                        <hi>William Dix</hi>
+                     </item>
+                     <item>
+                        <hi>John Vernon.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Noble</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Maton</hi>
+                     </item>
+                     <item>
+                        <hi>John Singleton</hi> Dr.</item>
+                     <item>
+                        <hi>James Baron.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>There are many more both Mini<g ref="char:EOLhyphen"/>ſters and others, who are ready and willing (if oc<g ref="char:EOLhyphen"/>caſion ſerve) to at<g ref="char:EOLhyphen"/>teſt the ſame.</p>
+               <p>
+                  <hi>Note alſo, That thoſe Inſtances in the foregoing Mar<g ref="char:EOLhyphen"/>gents, were added ſince the Meeting for further proof.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="postscript">
+            <head>A Poſtſcript to the <hi>Reader.</hi>
+            </head>
+            <p>HAving ſeen <hi>William Pens</hi> complaynt, wherein after his idle Excuſes, <hi>He is pleaſed to propoſe for a publick Meeting:</hi> To which I anſwer, That ſuch a Meeting never was refuſed, but often hath been de<g ref="char:EOLhyphen"/>ſired by me, <hi>provided,</hi> That the matters in contro<g ref="char:EOLhyphen"/>verſie betwixt us, might be the ſubject of the Debate: Accordingly, I did long ſince ſend Six Queſtions to <hi>G. Whitehead,</hi> promiſing to meet him in the moſt publick place I could procure, ſo be it, he would comply with theſe Conditions: (1) That I might have liberty to
+<pb facs="tcp:41681:23"/>
+produce their own Books, to be read openly, for the clearing matter of fact. (2) That we might agree upon a Rule by which our Diſcourſe may be deter<g ref="char:EOLhyphen"/>min'd. (3) That he would ſpeak directly and plain<g ref="char:EOLhyphen"/>ly to the Queſtion. (4) That but one at a time ſhould ſpeak: and (Laſtly,) That any who would might write after us. The Queſtions were theſe: (1) <hi>Whe<g ref="char:EOLhyphen"/>ther the Light in every man be God?</hi> (2) <hi>Whether the Light in every man, be the true and very Chriſt the Scripture ſpeaks of?</hi> (3) <hi>Whether Chriſt hath not a perſonal Being without men?</hi> (4) <hi>Whether the Soul be part of Gods Being, without Beginning, and infinite?</hi> (5) <hi>Whether none of thoſe things which God hath given by way of Command to others, be a Com<g ref="char:EOLhyphen"/>mand to me?</hi> (6) <hi>Whether the ſpeaking of the Spirit in the Quakers, be of greater Authority than the Scriptures? G. Whitehead</hi> would not accept here<g ref="char:EOLhyphen"/>of; though I told him, Theſe were ſome of the things which the Dialogue objects againſt them; But if <hi>William Pen</hi> will engage in the Diſquiſition of theſe Queſtions, upon the Conditions aforeſaid; and alſo, <hi>That no more than three of each ſide, be allow'd to Debate, and but one of thoſe three to ſpeak at a time, equal liberty being granted on each ſide, to thoſe per<g ref="char:EOLhyphen"/>ſons nominated and allow'd;</hi> upon notice of his wil<g ref="char:EOLhyphen"/>lingneſs, He ſhall (God willing) be attended: But if he refuſe, 'tis expected, he give ſufficient Reaſons why he doth ſo. Foraſmuch, as theſe are ſome of the principal matters in difference, every Queſtion ha<g ref="char:EOLhyphen"/>ving its Foundation in their own Books, (as the fore<g ref="char:EOLhyphen"/>going Narrative will abundantly manifeſt,) where<g ref="char:EOLhyphen"/>upon, I conceive, he ought not to decline them; yet nevertheleſs, if he ſhall rather chooſe to inſiſt upon other matters of leſs importance, giving his Reaſons
+<pb facs="tcp:41681:24"/>
+why theſe, and not thoſe before propounded, Then, let him ſend me the particulars thereof, ſubſcribed with his own hand, and I will give him a ſpeedy anſwer.</p>
+            <p>I have now a few things to add, (reſpecting matter of fact) which were not ſpoken to, in the Publick meeting aforeſaid, (1) <hi>That they</hi> (the Quakers) <hi>make uſe of the Scriptures only to ſilence them, that plead for it as their rule, ſee Dial.</hi> 1. <hi>p.</hi> 24, 25. <hi>Will. Pen</hi> accounts this, a Forgery <hi>Reaſ. ag. Rayl. p.</hi> 158. my anſwer is, That I have given an inſtance, (and that of no ordinary Quaker) By whom, words of ſuch an import were ſpoken, and withall plainly intimated to whom he ſo expreſſed himſelf, <hi>ſee Dial.</hi> 3. <hi>pag.</hi> 36.</p>
+            <p>Another particular (<hi>which</hi> Will. Pen <hi>in his wonted modeſty calls a lye</hi>) Is that Inſtance, concerning <hi>Nicolas Lucas, Dial.</hi> 2. <hi>p.</hi> 71— In this alſo, I have been cleared, and vindicated, Inaſmuch as the perſon, from whom I had the relation, (who heard him ſpeak the words) hath Atteſted it, to <hi>Nicolas Lucas</hi> before witneſſes, And whereas tis ſaid in the <hi>Append. to Reaſ. againſt Rail. p.</hi> 12. That it was refer'd to <hi>Henry Stout</hi> to wit<g ref="char:EOLhyphen"/>neſs that charge, Reader, I doe aſſure thee, that no ſuch mat<g ref="char:EOLhyphen"/>ter was refer'd to him.</p>
+            <p>The next thing, (<hi>which</hi> Will. Pen <hi>in his haſte hath branded for a lye and ſlander</hi>) Is this, That I ſhould ſay, <hi>The tendency of all the Quakers reaſoning about Inſtituted, Religion, is to Debauch man<g ref="char:EOLhyphen"/>kind, and to teach men to live in rebellion againſt God, Dial.</hi> 3. <hi>p.</hi> 65</p>
+            <p>In anſwer hereunto, I ſhall produce <hi>Will. Pen</hi> himſelf for my compurgator, Who, <hi>concerning the ordinances of water Bap<g ref="char:EOLhyphen"/>tiſme, and breaking of Bread,</hi> writes thus. <hi>I would not have any ſo ſottiſh as to think, That Christ came to aboliſh the ſhaddows of the Jews, And Inſtitute others in their room, He came to re<g ref="char:EOLhyphen"/>move, and aboliſh the very nature of ſuch ordinances,</hi> I affirm, circumciſion, is as much in force as Water-Baptiſme, And the paſchal Lamb, as Bread, and Wine, <hi>They were both but ſhaddows, and both Elementary, and periſhable, And though the latter were more Immediately forerunning and Introductory of the ſubſtance it ſelf, yet not to be perpetuated; For a continuance of them, had been a Judaizing of the ſpiritual, and Evangelicall worſhip, The Goſpel would have been a state of Figures, Types, and ſhadows, which to aſſert or practiſe, is as much as in us lyes to pluck it up by the Rootes,</hi> The Appellation [Ordinances of Chriſt] I therefore Renounce as unſcriptural, &amp; inevangelical <hi>Beſides the ſpirit of whoredom from God Groſs Apoſtacy, Superſtition and Ido<g ref="char:EOLhyphen"/>latry, yea a ſpirit of Hypocriſie, perſecution, and murder, and all
+<pb facs="tcp:41681:24"/>
+manner of wickedneſs has got them, and covered it ſelf with them;</hi> And we can teſtifie, <hi>from the ſame ſpirit by which</hi> Paul <hi>renounc'd Circumciſion,</hi> That they are to be rejected, as not now requir<g ref="char:EOLhyphen"/>ed, <hi>And the Lord will appear to gather people out of them, but never to eſtabliſh, or keep people in them,</hi> Thus <hi>Will. Pen Reaſ. againſt Rayl. p.</hi> 108, 109.</p>
+            <p>Now whether I have not ſufficiently diſcharg'd my ſelf from thoſe things whereof <hi>William Pen</hi> hath accuſed me, I ſhall ſubmit to the Judgement of all impartial men. And ſince the <hi>Quakers</hi> have appealed, whether they ought not to be conclud<g ref="char:EOLhyphen"/>ed by their judgement to whom the Appeal was made, eſpecial<g ref="char:EOLhyphen"/>ly this poſition of <hi>Will. Pens.</hi> Being conſidered, (viz.) <hi>That to which an Appeal is made, muſt be capable of giving an infallible Judgement, and ſo a true Judge in the caſe, or elſe the Appeale is fooliſh, Will. Pen Spir. of Tr. p.</hi> 78. Yet leſt <hi>Will. Pen</hi> (who a<g ref="char:EOLhyphen"/>bounds with ſhifts) ſhould not ſtand by his own Doctrine, but abuſe the world with ſuch Gloſſes, as neither his words nor practice will in any wiſe bear, it will not be amiſs, to Antici<g ref="char:EOLhyphen"/>pate ſuch Attempts <hi>of that man of confidence,</hi> To give ſome ac<g ref="char:EOLhyphen"/>count of an Appeal, which was once made againſt <hi>Will. Pen,</hi> to the <hi>Quakers</hi> at the Bull and mouth, The perſons appealing, were, (after ſome ſcornfull Treats) put off, with this anſwer, That <hi>Will. Pen</hi> had anſwered it, in his winding-ſheet, which Anſwer, I ſhall give you in his own words.</p>
+            <p>
+               <hi>Doth he own our Authority? Then his Appeal is ſomething, If not, He Appeals Idly, and unjuſtly, But ſince he doth ſeem to Ap<g ref="char:EOLhyphen"/>peal to them, And ſuppoſeth them, to have a right to deal with me, It is apparent, That he owns it</hi> (that is, their Authority) <hi>ſo far as concerns Judgement betwixt us,</hi> Paul <hi>therefore Appeal'd to Caeſar becauſe of his ability both to know his Caſe, and to do him right, And therefore in the caſe of this mans Appeal, Both the light and our friends are thereby judg'd able, and himſelf, to be conclu<g ref="char:EOLhyphen"/>ded by their Judgement, which is this, That</hi> H. Hedworth, <hi>firſt Author of the Spir. of the Quakers Try'd, Then of Controverſie ended; Is a buſie body, cavilling, conceited, proud, wrathfull, equivocating, ſlandering, yet cowardly man, That loves debate, which is both unable to maintain what he begins, and afraid to own it, when he hath done,</hi> Will. Pen <hi>winding ſheet, p.</hi> 8.</p>
+            <p>By this, Reader, Thou mayeſt gueſs, To what little purpoſe it is, to appeal againſt a <hi>Qaaker,</hi> to the <hi>Quakers;</hi> who inſtead of a fair and juſt hearing of the perſon grieved, or examining (as honeſt men would have done) the matters in difference, ſhall, I ſay, conſtitute the very perſon offending, To determine,
+<pb facs="tcp:41681:25"/>
+give ſentence in his own caſe, ſuch a procedure as this, (I be<g ref="char:EOLhyphen"/>lieve) is not to be inſtanc'd (the <hi>Quakers</hi> excepted) among any ſort of men either Chriſtian, or Heathen.</p>
+            <p>However, ſince it is ſo, That <hi>Will. Pen</hi> (in his great wiſdom,) hath publiſhed ſuch a judgement in print, whereby all men may be acquainted, what Juſtice there is amongſt the governing <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> It will be requiſite, (and I preſume <hi>Will. Pen</hi> hath not rea<g ref="char:EOLhyphen"/>ſon to be offended, it being his own method,) for this once, that a fool be anſwer'd, according to his folly.</p>
+            <p>The <hi>Quakers</hi> appeald to the <hi>Baptiſts,</hi> againſt <hi>Tho. Hicks,</hi> I would ask the <hi>Quakers (for ſo</hi> Will. Pen <hi>hath taught me)</hi> whe<g ref="char:EOLhyphen"/>ther they own their Authority? if they doe, The Appeal is ſomething, If not, They have Appealed idly and unjuſtly, But ſince they have ſeem'd to Appeal to them, And ſuppoſed them to have a right to deal with <hi>Tho. Hicks,</hi> Tis apparent, That they own their Authority ſo far as concerns a Judgement, betwixt <hi>Will. Pen,</hi> &amp; <hi>Tho. Hicks,</hi> for <hi>Paul</hi> therefore <hi>Appeal'd</hi> to <hi>Caeſar,</hi> Be<g ref="char:EOLhyphen"/>cauſe of his ability, both to know his caſe, &amp; do him right: there<g ref="char:EOLhyphen"/>fore in the caſe of the Quakers Appeal, The Light, and the Baptiſts, are thereby judged able, and the Quakers to be con<g ref="char:EOLhyphen"/>cluded by their Judgment; which <hi>(I may ſafely ſay, though not deputed by them to pronounce it)</hi> is this, That <hi>Will. Pen,</hi> the Authour <hi>of Reaſ. againſt Rayl.</hi> Then <hi>of Counterfeit Chriſtian Detected:</hi> is a buſie body, cavelling, conceited, proud, wrath<g ref="char:EOLhyphen"/>ful, equivocating, ſlandering, yet cowardly man, that loves Debate, which is both unable to maintain what he begins, and afraid to own it, when he hath done.</p>
+            <p>If againſt this it be objected, (<hi>as indeed it is by</hi> Will. Pen, <hi>in his naked truth</hi>) That their Appeal did not intend ſuch a po<g ref="char:EOLhyphen"/>wer of Judging in the Baptiſts, <hi>That they ſhould Try whether</hi> Tho. Hicks <hi>was Guilty. But for Judgment againſt Him,</hi> And not that the Quakers would be concluded by the Baptiſts judgment <hi>Right or wrong.</hi> Let all men take notice, of the un<g ref="char:EOLhyphen"/>righteouſneſſe of the Quakers, who would have a man con<g ref="char:EOLhyphen"/>demn'd, without being Tryed, But is it the part of a juſt judge to paſſe ſentence upon a man, meerly upon an Accuſation, without a legal Tryall? certainly had I been Arraign'd in the Quakers court, eſpecially at ſuch a time when <hi>Will. Pen,</hi> had preſided; my Head ſhould not have gone down to the grave in peace, But if this be the method of proceedings (as in all probability it is) amongſt the Governing Quakers, I do ear<g ref="char:EOLhyphen"/>neſtly pray, from ſuch a Government, and Governours, Good Lord Deliver me</p>
+            <closer>
+               <signed>Thomas Hicks.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:41681:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
